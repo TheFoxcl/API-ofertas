@@ -1,0 +1,135 @@
+{
+  "version": "1.0.0",
+  "queries": [
+    {
+      "Query": {
+        "Commands": [
+          {
+            "SemanticQueryDataShapeCommand": {
+              "Query": {
+                "Version": 2,
+                "From": [
+                  {
+                    "Name": "i",
+                    "Entity": "Impacto 1",
+                    "Type": 0
+                  },
+                  {
+                    "Name": "t",
+                    "Entity": "Tabla_SiNo",
+                    "Type": 0
+                  }
+                ],
+                "Select": [
+                  {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Source": "i"
+                        }
+                      },
+                      "Property": "Opcion_1_Imp1"
+                    },
+                    "Name": "Impacto 1.Opcion_1_Imp1",
+                    "NativeReferenceName": "Opcion_1_Imp1"
+                  },
+                  {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Source": "i"
+                        }
+                      },
+                      "Property": "Opcion_1_Titulo_imp1"
+                    },
+                    "Name": "Impacto 1.Opcion_1_Titulo_imp1"
+                  }
+                ],
+                "Where": [
+                  {
+                    "Condition": {
+                      "In": {
+                        "Expressions": [
+                          {
+                            "Column": {
+                              "Expression": {
+                                "SourceRef": {
+                                  "Source": "t"
+                                }
+                              },
+                              "Property": "respuestas"
+                            }
+                          }
+                        ],
+                        "Values": [
+                          [
+                            {
+                              "Literal": {
+                                "Value": "'No'"
+                              }
+                            }
+                          ]
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "Condition": {
+                      "Contains": {
+                        "Left": {
+                          "Column": {
+                            "Expression": {
+                              "SourceRef": {
+                                "Source": "i"
+                              }
+                            },
+                            "Property": "MSISDN OP1"
+                          }
+                        },
+                        "Right": {
+                          "Literal": {
+                            "Value": "'3178379486'"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              "Binding": {
+                "Primary": {
+                  "Groupings": [
+                    {
+                      "Projections": [0]
+                    }
+                  ]
+                },
+                "Projections": [1],
+                "DataReduction": {
+                  "DataVolume": 3,
+                  "Primary": {
+                    "Top": {}
+                  }
+                },
+                "Version": 1
+              },
+              "ExecutionMetricsKind": 1
+            }
+          }
+        ]
+      },
+      "QueryId": "",
+      "ApplicationContext": {
+        "DatasetId": "cd5adb66-02e9-40c2-be93-eca0ba8455ec",
+        "Sources": [
+          {
+            "ReportId": "436e395d-4b55-426f-b6b4-ebe8e20dab1a",
+            "VisualId": "5ea5e47f99e92bd5d3b5"
+          }
+        ]
+      }
+    }
+  ],
+  "cancelQueries": [],
+  "modelId": 1840631
+}
