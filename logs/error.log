@@ -1,0 +1,15 @@
+2025-12-15 12:15:55 [error] TypeError: Invalid URL
+    at new URL (node:internal/url:797:36)
+    at dispatchHttpRequest (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:3108:20)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:2949:5
+    at new Promise (<anonymous>)
+    at wrapAsync (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:2929:10)
+    at http (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:3014:10)
+    at Axios.dispatchRequest (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:4571:10)
+    at Axios._request (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:4869:33)
+    at Axios.request (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:4726:25)
+    at Axios.httpMethod [as post] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:4908:19)
+    at Axios.request (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:4731:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getOfferInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOffer.js:32:24)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:20:21)

@@ -62,3 +62,48 @@
 2025-12-12 10:29:08 [info] 🏁 Finalizando getOfferMatrixData() correctamente
 2025-12-12 10:29:08 [info] ✔️ getOfferMatrixData() completado en 475 ms
 2025-12-12 10:29:08 [info] 🎉 /userinfo completado en 33182 ms
+2025-12-15 12:15:55 [info] 📥 Nueva solicitud a /userinfo
+2025-12-15 12:15:55 [info] 🔍 Ejecutando getOfferInfo()...
+2025-12-15 12:15:55 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2025-12-15 12:15:55 [info] 🔍 Consultando impacto: 1
+2025-12-15 12:15:55 [error] TypeError: Invalid URL
+    at new URL (node:internal/url:797:36)
+    at dispatchHttpRequest (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:3108:20)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:2949:5
+    at new Promise (<anonymous>)
+    at wrapAsync (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:2929:10)
+    at http (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:3014:10)
+    at Axios.dispatchRequest (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:4571:10)
+    at Axios._request (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:4869:33)
+    at Axios.request (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:4726:25)
+    at Axios.httpMethod [as post] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:4908:19)
+    at Axios.request (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\axios\dist\node\axios.cjs:4731:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getOfferInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOffer.js:32:24)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:20:21)
+2025-12-15 12:15:55 [warn] ⚠️ option recibido no es válido
+2025-12-15 12:15:55 [info] 🎉 /userinfo completado en 6 ms
+2025-12-15 12:17:10 [info] 📥 Nueva solicitud a /userinfo
+2025-12-15 12:17:10 [info] 🔍 Ejecutando getOfferInfo()...
+2025-12-15 12:17:10 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2025-12-15 12:17:10 [info] 🔍 Consultando impacto: 1
+2025-12-15 12:17:11 [info] ✔️ Impacto 1 respondió en 805 ms
+2025-12-15 12:17:11 [info] 🔍 Consultando impacto: 2
+2025-12-15 12:17:11 [info] ✔️ Impacto 2 respondió en 223 ms
+2025-12-15 12:17:11 [info] ✅ Impacto 2 encontrado, texto detectado
+2025-12-15 12:17:11 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2025-12-15 12:17:11 [info] ✔️ Consultas paralelas completadas en 534 ms
+2025-12-15 12:17:11 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2025-12-15 12:17:11 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2025-12-15 12:17:11 [info] 🔧 option contiene 'Matriz'. Ejecutando módulos adicionales:
+2025-12-15 12:17:11 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2025-12-15 12:17:12 [info] ✔️ Power BI respondió en 212 ms
+2025-12-15 12:17:12 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2025-12-15 12:17:12 [info] ✔️ getFullEquipoData() completado en 216 ms
+2025-12-15 12:17:12 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.0 D (773|7731)" value="79900"
+2025-12-15 12:17:12 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2025-12-15 12:17:12 [info] ✔️ Consultas paralelas completadas en 232 ms
+2025-12-15 12:17:12 [info] ⚙️ Aplicando regla: plan contiene '_V2'
+2025-12-15 12:17:12 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2025-12-15 12:17:12 [info] ✔️ getOfferMatrixData() completado en 236 ms
+2025-12-15 12:17:12 [info] 🎉 /userinfo completado en 2023 ms
