@@ -28,16 +28,21 @@ async function getFullEquipoData() {
     let formatted = {};
 
     rows.forEach((row) => {
+      // Extraer valor de G0 (precio)
+      const valor = row.S ? row.C[0] : row.C[0];
+
+      // Extraer índices de D0 y D1
       const ofertaIndex = row.C[1];
       const portafolioIndex = row.C[2];
 
       const oferta = ofertas[ofertaIndex];
       const portafolio = portafolios[portafolioIndex];
 
-      formatted[portafolio] = oferta;
+      formatted[portafolio] = { oferta, valor };
     });
 
     logger.info("✔️ Data formateada correctamente en getFullEquipoData");
+    console.log(formatted);
 
     return { data: formatted };
   } catch (error) {

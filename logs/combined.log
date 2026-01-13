@@ -107,3 +107,302 @@
 2025-12-15 12:17:12 [info] 🏁 Finalizando getOfferMatrixData() correctamente
 2025-12-15 12:17:12 [info] ✔️ getOfferMatrixData() completado en 236 ms
 2025-12-15 12:17:12 [info] 🎉 /userinfo completado en 2023 ms
+2026-01-05 10:33:51 [info] 📥 Nueva solicitud a /userinfo
+2026-01-05 10:33:51 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-05 10:33:51 [info] 📡 Iniciando getOfferInfo() para ANI: 3142261464
+2026-01-05 10:33:51 [info] 🔍 Consultando impacto: 1
+2026-01-05 10:33:51 [info] ✔️ Impacto 1 respondió en 689 ms
+2026-01-05 10:33:51 [info] 🔍 Consultando impacto: 2
+2026-01-05 10:33:52 [info] ✔️ Impacto 2 respondió en 228 ms
+2026-01-05 10:33:52 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-05 10:33:52 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-05 10:33:52 [info] ✔️ Consultas paralelas completadas en 605 ms
+2026-01-05 10:33:52 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-05 10:33:52 [info] option recibido: "Devuelve el 8,36% x 6 meses al cliente"
+2026-01-05 10:33:52 [info] 🚫 No contiene 'Matriz'. No se cargan datos adicionales.
+2026-01-05 10:33:52 [info] 🎉 /userinfo completado en 1527 ms
+2026-01-08 09:47:31 [info] 📥 Nueva solicitud a /userinfo
+2026-01-08 09:47:31 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-08 09:47:31 [info] 📡 Iniciando getOfferInfo() para ANI: 3016302147
+2026-01-08 09:47:31 [info] 🔍 Consultando impacto: 1
+2026-01-08 09:47:32 [info] ✔️ Impacto 1 respondió en 734 ms
+2026-01-08 09:47:32 [info] 🔍 Consultando impacto: 2
+2026-01-08 09:47:32 [info] ✔️ Impacto 2 respondió en 298 ms
+2026-01-08 09:47:32 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-08 09:47:32 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-08 09:47:33 [info] ✔️ Consultas paralelas completadas en 583 ms
+2026-01-08 09:47:33 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-08 09:47:33 [info] option recibido: "Devuelve el 10,03% x 6 meses al cliente"
+2026-01-08 09:47:33 [info] 🚫 No contiene 'Matriz'. No se cargan datos adicionales.
+2026-01-08 09:47:33 [info] 🎉 /userinfo completado en 1623 ms
+2026-01-08 09:48:02 [info] 📥 Nueva solicitud a /userinfo
+2026-01-08 09:48:02 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-08 09:48:02 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-08 09:48:02 [info] 🔍 Consultando impacto: 1
+2026-01-08 09:48:02 [info] ✔️ Impacto 1 respondió en 488 ms
+2026-01-08 09:48:02 [info] 🔍 Consultando impacto: 2
+2026-01-08 09:48:02 [info] ✔️ Impacto 2 respondió en 101 ms
+2026-01-08 09:48:02 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-08 09:48:02 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-08 09:48:03 [info] ✔️ Consultas paralelas completadas en 398 ms
+2026-01-08 09:48:03 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-08 09:48:03 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-08 09:48:03 [info] 🔧 option contiene 'Matriz'. Ejecutando módulos adicionales:
+2026-01-08 09:48:03 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-08 09:48:03 [info] ✔️ Power BI respondió en 102 ms
+2026-01-08 09:48:03 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-08 09:48:03 [info] ✔️ getFullEquipoData() completado en 110 ms
+2026-01-08 09:48:03 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.0 D (773|7731)" value="79900"
+2026-01-08 09:48:03 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-08 09:48:03 [info] ✔️ Consultas paralelas completadas en 109 ms
+2026-01-08 09:48:03 [info] ⚙️ Aplicando regla: plan contiene '_V2'
+2026-01-08 09:48:03 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-08 09:48:03 [info] ✔️ getOfferMatrixData() completado en 110 ms
+2026-01-08 09:48:03 [info] 🎉 /userinfo completado en 1223 ms
+2026-01-08 09:49:46 [info] 📥 Nueva solicitud a /userinfo
+2026-01-08 09:49:46 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-08 09:49:46 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-08 09:49:46 [info] 🔍 Consultando impacto: 1
+2026-01-08 09:49:46 [info] ✔️ Impacto 1 respondió en 568 ms
+2026-01-08 09:49:46 [info] 🔍 Consultando impacto: 2
+2026-01-08 09:49:46 [info] ✔️ Impacto 2 respondió en 100 ms
+2026-01-08 09:49:46 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-08 09:49:46 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-08 09:49:47 [info] ✔️ Consultas paralelas completadas en 401 ms
+2026-01-08 09:49:47 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-08 09:49:47 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-08 09:49:47 [info] 🔧 option contiene 'Matriz'. Ejecutando módulos adicionales:
+2026-01-08 09:49:47 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-08 09:49:47 [info] ✔️ Power BI respondió en 101 ms
+2026-01-08 09:49:47 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-08 09:49:47 [info] ✔️ getFullEquipoData() completado en 110 ms
+2026-01-08 09:49:47 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.0 D (773|7731)" value="79900"
+2026-01-08 09:49:47 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-08 09:49:47 [info] ✔️ Consultas paralelas completadas en 107 ms
+2026-01-08 09:49:47 [info] ⚙️ Aplicando regla: plan contiene '_V2'
+2026-01-08 09:49:47 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-08 09:49:47 [info] ✔️ getOfferMatrixData() completado en 111 ms
+2026-01-08 09:49:47 [info] 🎉 /userinfo completado en 1299 ms
+2026-01-08 09:50:16 [info] 📥 Nueva solicitud a /userinfo
+2026-01-08 09:50:16 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-08 09:50:16 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-08 09:50:16 [info] 🔍 Consultando impacto: 1
+2026-01-08 09:50:17 [info] ✔️ Impacto 1 respondió en 572 ms
+2026-01-08 09:50:17 [info] 🔍 Consultando impacto: 2
+2026-01-08 09:50:17 [info] ✔️ Impacto 2 respondió en 101 ms
+2026-01-08 09:50:17 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-08 09:50:17 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-08 09:50:18 [info] ✔️ Consultas paralelas completadas en 394 ms
+2026-01-08 09:50:18 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-08 09:50:18 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-08 09:50:18 [info] 🔧 option contiene 'Matriz'. Ejecutando módulos adicionales:
+2026-01-08 09:50:18 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-08 09:50:18 [info] ✔️ Power BI respondió en 98 ms
+2026-01-08 09:50:18 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-08 09:50:18 [info] ✔️ getFullEquipoData() completado en 101 ms
+2026-01-08 09:50:18 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.0 D (773|7731)" value="79900"
+2026-01-08 09:50:18 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-08 09:50:18 [info] ✔️ Consultas paralelas completadas en 98 ms
+2026-01-08 09:50:18 [info] ⚙️ Aplicando regla: plan contiene '_V2'
+2026-01-08 09:50:18 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-08 09:50:18 [info] ✔️ getOfferMatrixData() completado en 99 ms
+2026-01-08 09:50:18 [info] 🎉 /userinfo completado en 1276 ms
+2026-01-08 09:50:34 [info] 📥 Nueva solicitud a /userinfo
+2026-01-08 09:50:34 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-08 09:50:34 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-08 09:50:34 [info] 🔍 Consultando impacto: 1
+2026-01-08 09:50:35 [info] ✔️ Impacto 1 respondió en 567 ms
+2026-01-08 09:50:35 [info] 🔍 Consultando impacto: 2
+2026-01-08 09:50:35 [info] ✔️ Impacto 2 respondió en 98 ms
+2026-01-08 09:50:35 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-08 09:50:35 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-08 09:50:35 [info] ✔️ Consultas paralelas completadas en 404 ms
+2026-01-08 09:50:35 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-08 09:50:35 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-08 09:50:35 [info] 🔧 option contiene 'Matriz'. Ejecutando módulos adicionales:
+2026-01-08 09:50:35 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-08 09:50:35 [info] ✔️ Power BI respondió en 118 ms
+2026-01-08 09:50:35 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-08 09:50:35 [info] ✔️ getFullEquipoData() completado en 126 ms
+2026-01-08 09:50:35 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.0 D (773|7731)" value="79900"
+2026-01-08 09:50:35 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-08 09:50:36 [info] ✔️ Consultas paralelas completadas en 106 ms
+2026-01-08 09:50:36 [info] ⚙️ Aplicando regla: plan contiene '_V2'
+2026-01-08 09:50:36 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-08 09:50:36 [info] ✔️ getOfferMatrixData() completado en 111 ms
+2026-01-08 09:50:36 [info] 🎉 /userinfo completado en 1314 ms
+2026-01-08 09:51:00 [info] 📥 Nueva solicitud a /userinfo
+2026-01-08 09:51:00 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-08 09:51:00 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-08 09:51:00 [info] 🔍 Consultando impacto: 1
+2026-01-08 09:51:00 [info] ✔️ Impacto 1 respondió en 546 ms
+2026-01-08 09:51:00 [info] 🔍 Consultando impacto: 2
+2026-01-08 09:51:00 [info] ✔️ Impacto 2 respondió en 101 ms
+2026-01-08 09:51:00 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-08 09:51:00 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-08 09:51:01 [info] ✔️ Consultas paralelas completadas en 399 ms
+2026-01-08 09:51:01 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-08 09:51:01 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-08 09:51:01 [info] 🔧 option contiene 'Matriz'. Ejecutando módulos adicionales:
+2026-01-08 09:51:01 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-08 09:51:01 [info] ✔️ Power BI respondió en 108 ms
+2026-01-08 09:51:01 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-08 09:51:01 [info] ✔️ getFullEquipoData() completado en 111 ms
+2026-01-08 09:51:01 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.0 D (773|7731)" value="79900"
+2026-01-08 09:51:01 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-08 09:51:01 [info] ✔️ Consultas paralelas completadas en 104 ms
+2026-01-08 09:51:01 [info] ⚙️ Aplicando regla: plan contiene '_V2'
+2026-01-08 09:51:01 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-08 09:51:01 [info] ✔️ getOfferMatrixData() completado en 106 ms
+2026-01-08 09:51:01 [info] 🎉 /userinfo completado en 1270 ms
+2026-01-08 09:54:46 [info] 📥 Nueva solicitud a /userinfo
+2026-01-08 09:54:46 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-08 09:54:46 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-08 09:54:46 [info] 🔍 Consultando impacto: 1
+2026-01-08 09:54:47 [info] ✔️ Impacto 1 respondió en 545 ms
+2026-01-08 09:54:47 [info] 🔍 Consultando impacto: 2
+2026-01-08 09:54:47 [info] ✔️ Impacto 2 respondió en 102 ms
+2026-01-08 09:54:47 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-08 09:54:47 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-08 09:54:47 [info] ✔️ Consultas paralelas completadas en 388 ms
+2026-01-08 09:54:47 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-08 09:54:47 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-08 09:54:47 [info] 🔧 option contiene 'Matriz'. Ejecutando módulos adicionales:
+2026-01-08 09:54:47 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-08 09:54:47 [info] ✔️ Power BI respondió en 97 ms
+2026-01-08 09:54:47 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-08 09:54:47 [info] ✔️ getFullEquipoData() completado en 100 ms
+2026-01-08 09:54:47 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.0 D (773|7731)" value="79900"
+2026-01-08 09:54:47 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-08 09:54:47 [info] ✔️ Consultas paralelas completadas en 101 ms
+2026-01-08 09:54:47 [info] ⚙️ Aplicando regla: plan contiene '_V2'
+2026-01-08 09:54:47 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-08 09:54:47 [info] ✔️ getOfferMatrixData() completado en 103 ms
+2026-01-08 09:54:47 [info] 🎉 /userinfo completado en 1248 ms
+2026-01-08 09:55:27 [info] 📥 Nueva solicitud a /userinfo
+2026-01-08 09:55:27 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-08 09:55:27 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-08 09:55:27 [info] 🔍 Consultando impacto: 1
+2026-01-08 09:55:27 [info] ✔️ Impacto 1 respondió en 549 ms
+2026-01-08 09:55:27 [info] 🔍 Consultando impacto: 2
+2026-01-08 09:55:28 [info] ✔️ Impacto 2 respondió en 102 ms
+2026-01-08 09:55:28 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-08 09:55:28 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-08 09:55:28 [info] ✔️ Consultas paralelas completadas en 435 ms
+2026-01-08 09:55:28 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-08 09:55:28 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-08 09:55:28 [info] 🔧 option contiene 'Matriz'. Ejecutando módulos adicionales:
+2026-01-08 09:55:28 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-08 09:55:28 [info] ✔️ Power BI respondió en 100 ms
+2026-01-08 09:55:28 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-08 09:55:28 [info] ✔️ getFullEquipoData() completado en 105 ms
+2026-01-08 09:55:28 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.0 D (773|7731)" value="79900"
+2026-01-08 09:55:28 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-08 09:55:28 [info] ✔️ Consultas paralelas completadas en 102 ms
+2026-01-08 09:55:28 [info] ⚙️ Aplicando regla: plan contiene '_V2'
+2026-01-08 09:55:28 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-08 09:55:28 [info] ✔️ getOfferMatrixData() completado en 105 ms
+2026-01-08 09:55:28 [info] 🎉 /userinfo completado en 1307 ms
+2026-01-08 09:57:53 [info] 📥 Nueva solicitud a /userinfo
+2026-01-08 09:57:53 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-08 09:57:53 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-08 09:57:53 [info] 🔍 Consultando impacto: 1
+2026-01-08 09:57:54 [info] ✔️ Impacto 1 respondió en 614 ms
+2026-01-08 09:57:54 [info] 🔍 Consultando impacto: 2
+2026-01-08 09:57:54 [info] ✔️ Impacto 2 respondió en 101 ms
+2026-01-08 09:57:54 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-08 09:57:54 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-08 09:57:54 [info] ✔️ Consultas paralelas completadas en 404 ms
+2026-01-08 09:57:54 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-08 09:57:54 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-08 09:57:54 [info] 🔧 option contiene 'Matriz'. Ejecutando módulos adicionales:
+2026-01-08 09:57:54 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-08 09:57:54 [info] ✔️ Power BI respondió en 102 ms
+2026-01-08 09:57:54 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-08 09:57:54 [info] ✔️ getFullEquipoData() completado en 108 ms
+2026-01-08 09:57:54 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.0 D (773|7731)" value="79900"
+2026-01-08 09:57:54 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-08 09:57:54 [info] ✔️ Consultas paralelas completadas en 101 ms
+2026-01-08 09:57:54 [info] ⚙️ Aplicando regla: plan contiene '_V2'
+2026-01-08 09:57:54 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-08 09:57:54 [info] ✔️ getOfferMatrixData() completado en 103 ms
+2026-01-08 09:57:54 [info] 🎉 /userinfo completado en 1340 ms
+2026-01-08 10:44:50 [info] 📥 Nueva solicitud a /userinfo
+2026-01-08 10:44:50 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-08 10:44:50 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-08 10:44:50 [info] 🔍 Consultando impacto: 1
+2026-01-08 10:44:50 [info] ✔️ Impacto 1 respondió en 686 ms
+2026-01-08 10:44:50 [info] 🔍 Consultando impacto: 2
+2026-01-08 10:44:51 [info] ✔️ Impacto 2 respondió en 261 ms
+2026-01-08 10:44:51 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-08 10:44:51 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-08 10:44:51 [info] ✔️ Consultas paralelas completadas en 535 ms
+2026-01-08 10:44:51 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-08 10:44:51 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-08 10:44:51 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-08 10:44:51 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-08 10:44:51 [info] ✔️ Power BI respondió en 310 ms
+2026-01-08 10:44:51 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-08 10:44:51 [info] ✔️ getFullEquipoData() OK en 318 ms
+2026-01-08 10:44:51 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.0 D (773|7731)" value="79900"
+2026-01-08 10:44:51 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-08 10:44:52 [info] ✔️ Consultas paralelas completadas en 250 ms
+2026-01-08 10:44:52 [info] ⚙️ Aplicando regla: plan contiene '_V2'
+2026-01-08 10:44:52 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-08 10:44:52 [info] ✔️ getOfferMatrixData() OK en 253 ms
+2026-01-08 10:44:52 [info] 🎯 /userinfo completado en 2063 ms
+2026-01-08 10:49:27 [info] 📥 Nueva solicitud a /userinfo
+2026-01-08 10:49:27 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-08 10:49:27 [info] 📡 Iniciando getOfferInfo() para ANI: 32174adsa63422
+2026-01-08 10:49:27 [info] 🔍 Consultando impacto: 1
+2026-01-08 10:49:27 [info] ✔️ Impacto 1 respondió en 789 ms
+2026-01-08 10:49:27 [info] 🔍 Consultando impacto: 2
+2026-01-08 10:49:28 [info] ✔️ Impacto 2 respondió en 240 ms
+2026-01-08 10:49:28 [info] 🔍 Consultando impacto: 3
+2026-01-08 10:49:28 [info] ✔️ Impacto 3 respondió en 223 ms
+2026-01-08 10:49:28 [info] 🔍 Consultando impacto: 4
+2026-01-08 10:49:28 [info] ✔️ Impacto 4 respondió en 269 ms
+2026-01-08 10:49:28 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: Ninguno
+2026-01-08 10:49:28 [warn] ⚠️ option recibido no es string. No se cargan módulos extra.
+2026-01-08 10:49:28 [info] 🎯 /userinfo completado en 1528 ms
+2026-01-08 10:49:40 [info] 📥 Nueva solicitud a /userinfo
+2026-01-08 10:49:40 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-08 10:49:40 [info] 📡 Iniciando getOfferInfo() para ANI: 321741231263422
+2026-01-08 10:49:40 [info] 🔍 Consultando impacto: 1
+2026-01-08 10:49:40 [info] ✔️ Impacto 1 respondió en 595 ms
+2026-01-08 10:49:40 [info] 🔍 Consultando impacto: 2
+2026-01-08 10:49:41 [info] ✔️ Impacto 2 respondió en 261 ms
+2026-01-08 10:49:41 [info] 🔍 Consultando impacto: 3
+2026-01-08 10:49:41 [info] ✔️ Impacto 3 respondió en 297 ms
+2026-01-08 10:49:41 [info] 🔍 Consultando impacto: 4
+2026-01-08 10:49:41 [info] ✔️ Impacto 4 respondió en 280 ms
+2026-01-08 10:49:41 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: Ninguno
+2026-01-08 10:49:41 [warn] ⚠️ option recibido no es string. No se cargan módulos extra.
+2026-01-08 10:49:41 [info] 🎯 /userinfo completado en 1439 ms
+2026-01-08 10:54:10 [info] 📥 Nueva solicitud a /userinfo
+2026-01-08 10:54:10 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-08 10:54:10 [info] 📡 Iniciando getOfferInfo() para ANI: 321741231263422
+2026-01-08 10:54:10 [info] 🔍 Consultando impacto: 1
+2026-01-08 10:54:11 [info] ✔️ Impacto 1 respondió en 537 ms
+2026-01-08 10:54:11 [info] 🔍 Consultando impacto: 2
+2026-01-08 10:54:11 [info] ✔️ Impacto 2 respondió en 104 ms
+2026-01-08 10:54:11 [info] 🔍 Consultando impacto: 3
+2026-01-08 10:54:11 [info] ✔️ Impacto 3 respondió en 103 ms
+2026-01-08 10:54:11 [info] 🔍 Consultando impacto: 4
+2026-01-08 10:54:11 [info] ✔️ Impacto 4 respondió en 100 ms
+2026-01-08 10:54:11 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: Ninguno
+2026-01-08 10:54:11 [warn] ⚠️ Offer Alert indica que no se encontró información
+2026-01-08 10:54:25 [info] 📥 Nueva solicitud a /userinfo
+2026-01-08 10:54:25 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-08 10:54:25 [info] 📡 Iniciando getOfferInfo() para ANI: 3016302147
+2026-01-08 10:54:25 [info] 🔍 Consultando impacto: 1
+2026-01-08 10:54:26 [info] ✔️ Impacto 1 respondió en 771 ms
+2026-01-08 10:54:26 [info] 🔍 Consultando impacto: 2
+2026-01-08 10:54:26 [info] ✔️ Impacto 2 respondió en 303 ms
+2026-01-08 10:54:26 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-08 10:54:26 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-08 10:54:27 [info] ✔️ Consultas paralelas completadas en 744 ms
+2026-01-08 10:54:27 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-08 10:54:27 [info] option recibido: "Devuelve el 10,03% x 6 meses al cliente"
+2026-01-08 10:54:27 [info] ⏭️ No contiene 'Matriz'. Saltando módulos extra.
+2026-01-08 10:54:27 [info] 🎯 /userinfo completado en 1825 ms

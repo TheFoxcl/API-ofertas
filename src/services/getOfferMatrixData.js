@@ -1,4 +1,4 @@
-const logger = require("../utilities/logger"); // <-- agregado
+const logger = require("../utilities/logger");
 const getMatrixData = require("../modules/offerMatrix");
 const getPlanData = require("../modules/planDetails");
 
