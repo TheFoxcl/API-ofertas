@@ -6,10 +6,8 @@ const parseMatrix = require("../utilities/sortMatrixData");
 const formatValueDicts = require("../utilities/sortPlanDetails");
 const powerBiClient = require("./powerBiClient");
 
-async function getOfferMatrixData(plan, value) {
-  logger.info(
-    `📡 Iniciando getOfferMatrixData() plan="${plan}" value="${value}"`
-  );
+async function getOfferMatrixData(plan) {
+  logger.info(`📡 Iniciando getOfferMatrixData() plan="${plan}"`);
 
   try {
     const startQueries = Date.now();
@@ -17,8 +15,8 @@ async function getOfferMatrixData(plan, value) {
     logger.info("⏳ Consultando matriz y planDetails en paralelo...");
 
     const [responseMatrix, responsePlanDetails] = await Promise.all([
-      powerBiClient.post("", getMatrixData(plan, value)),
-      powerBiClient.post("", getPlanData(plan, value)),
+      powerBiClient.post("", getMatrixData(plan)),
+      powerBiClient.post("", getPlanData(plan)),
     ]);
 
     const parallelDuration = Date.now() - startQueries;

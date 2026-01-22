@@ -406,3 +406,1483 @@
 2026-01-08 10:54:27 [info] option recibido: "Devuelve el 10,03% x 6 meses al cliente"
 2026-01-08 10:54:27 [info] ⏭️ No contiene 'Matriz'. Saltando módulos extra.
 2026-01-08 10:54:27 [info] 🎯 /userinfo completado en 1825 ms
+2026-01-20 15:33:51 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 15:33:51 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 15:33:51 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 15:33:51 [info] 🔍 Consultando impacto: 1
+2026-01-20 15:33:52 [info] ✔️ Impacto 1 respondió en 592 ms
+2026-01-20 15:33:52 [info] 🔍 Consultando impacto: 2
+2026-01-20 15:33:52 [info] ✔️ Impacto 2 respondió en 101 ms
+2026-01-20 15:33:52 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 15:33:52 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 15:33:52 [info] ✔️ Consultas paralelas completadas en 393 ms
+2026-01-20 15:33:52 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 15:33:52 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 15:33:52 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 15:33:52 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 15:33:53 [info] ✔️ Power BI respondió en 99 ms
+2026-01-20 15:33:53 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 15:33:53 [info] ✔️ getFullEquipoData() OK en 103 ms
+2026-01-20 15:33:53 [info] ✔️ getOfferMatrixData() OK en 0 ms
+2026-01-20 15:33:53 [info] 🎯 /userinfo completado en 1196 ms
+2026-01-20 15:34:32 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 15:34:32 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 15:34:32 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 15:34:32 [info] 🔍 Consultando impacto: 1
+2026-01-20 15:34:32 [info] ✔️ Impacto 1 respondió en 559 ms
+2026-01-20 15:34:32 [info] 🔍 Consultando impacto: 2
+2026-01-20 15:34:32 [info] ✔️ Impacto 2 respondió en 99 ms
+2026-01-20 15:34:32 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 15:34:32 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 15:34:33 [info] ✔️ Consultas paralelas completadas en 402 ms
+2026-01-20 15:34:33 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 15:34:33 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 15:34:33 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 15:34:33 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 15:34:33 [info] ✔️ Power BI respondió en 100 ms
+2026-01-20 15:34:33 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 15:34:33 [info] ✔️ getFullEquipoData() OK en 104 ms
+2026-01-20 15:34:33 [info] ✔️ getOfferMatrixData() OK en 1 ms
+2026-01-20 15:34:33 [info] 🎯 /userinfo completado en 1173 ms
+2026-01-20 15:36:35 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 15:36:35 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 15:36:35 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 15:36:35 [info] 🔍 Consultando impacto: 1
+2026-01-20 15:36:35 [info] ✔️ Impacto 1 respondió en 608 ms
+2026-01-20 15:36:35 [info] 🔍 Consultando impacto: 2
+2026-01-20 15:36:35 [info] ✔️ Impacto 2 respondió en 100 ms
+2026-01-20 15:36:35 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 15:36:35 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 15:36:36 [info] ✔️ Consultas paralelas completadas en 403 ms
+2026-01-20 15:36:36 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 15:36:36 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 15:36:36 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 15:36:36 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 15:36:36 [info] ✔️ Power BI respondió en 101 ms
+2026-01-20 15:36:36 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 15:36:36 [info] ✔️ getFullEquipoData() OK en 109 ms
+2026-01-20 15:36:36 [info] ✔️ getOfferMatrixData() OK en 0 ms
+2026-01-20 15:36:36 [info] 🎯 /userinfo completado en 1230 ms
+2026-01-20 15:37:11 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 15:37:11 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 15:37:11 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 15:37:11 [info] 🔍 Consultando impacto: 1
+2026-01-20 15:37:11 [info] ✔️ Impacto 1 respondió en 474 ms
+2026-01-20 15:37:11 [info] 🔍 Consultando impacto: 2
+2026-01-20 15:37:12 [info] ✔️ Impacto 2 respondió en 99 ms
+2026-01-20 15:37:12 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 15:37:12 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 15:37:12 [info] ✔️ Consultas paralelas completadas en 397 ms
+2026-01-20 15:37:12 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 15:37:12 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 15:37:12 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 15:37:12 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 15:37:12 [info] ✔️ Power BI respondió en 98 ms
+2026-01-20 15:37:12 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 15:37:12 [info] ✔️ getFullEquipoData() OK en 100 ms
+2026-01-20 15:37:12 [info] ✔️ getOfferMatrixData() OK en 0 ms
+2026-01-20 15:37:12 [info] 🎯 /userinfo completado en 1076 ms
+2026-01-20 15:37:28 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 15:37:28 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 15:37:28 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 15:37:28 [info] 🔍 Consultando impacto: 1
+2026-01-20 15:37:28 [info] ✔️ Impacto 1 respondió en 579 ms
+2026-01-20 15:37:28 [info] 🔍 Consultando impacto: 2
+2026-01-20 15:37:28 [info] ✔️ Impacto 2 respondió en 104 ms
+2026-01-20 15:37:28 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 15:37:28 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 15:37:29 [info] ✔️ Consultas paralelas completadas en 407 ms
+2026-01-20 15:37:29 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 15:37:29 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 15:37:29 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 15:37:29 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 15:37:29 [info] ✔️ Power BI respondió en 109 ms
+2026-01-20 15:37:29 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 15:37:29 [info] ✔️ getFullEquipoData() OK en 118 ms
+2026-01-20 15:37:29 [info] ✔️ getOfferMatrixData() OK en 0 ms
+2026-01-20 15:37:29 [info] 🎯 /userinfo completado en 1222 ms
+2026-01-20 15:46:10 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 15:46:10 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 15:46:10 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 15:46:10 [info] 🔍 Consultando impacto: 1
+2026-01-20 15:46:11 [info] ✔️ Impacto 1 respondió en 557 ms
+2026-01-20 15:46:11 [info] 🔍 Consultando impacto: 2
+2026-01-20 15:46:11 [info] ✔️ Impacto 2 respondió en 98 ms
+2026-01-20 15:46:11 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 15:46:11 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 15:46:11 [info] ✔️ Consultas paralelas completadas en 399 ms
+2026-01-20 15:46:11 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 15:46:11 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 15:46:11 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 15:46:11 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 15:46:12 [info] ✔️ Power BI respondió en 103 ms
+2026-01-20 15:46:12 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 15:46:12 [info] ✔️ getFullEquipoData() OK en 109 ms
+2026-01-20 15:46:12 [info] ✔️ getOfferMatrixData() OK en 1 ms
+2026-01-20 15:46:12 [info] 🎯 /userinfo completado en 1172 ms
+2026-01-20 15:46:39 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 15:46:39 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 15:46:39 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 15:46:39 [info] 🔍 Consultando impacto: 1
+2026-01-20 15:46:39 [info] ✔️ Impacto 1 respondió en 557 ms
+2026-01-20 15:46:39 [info] 🔍 Consultando impacto: 2
+2026-01-20 15:46:39 [info] ✔️ Impacto 2 respondió en 97 ms
+2026-01-20 15:46:39 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 15:46:39 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 15:46:40 [info] ✔️ Consultas paralelas completadas en 431 ms
+2026-01-20 15:46:40 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 15:46:40 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 15:46:40 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 15:46:40 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 15:46:40 [info] ✔️ Power BI respondió en 98 ms
+2026-01-20 15:46:40 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 15:46:40 [info] ✔️ getFullEquipoData() OK en 103 ms
+2026-01-20 15:46:40 [info] ✔️ getOfferMatrixData() OK en 0 ms
+2026-01-20 15:46:40 [info] 🎯 /userinfo completado en 1200 ms
+2026-01-20 15:47:56 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 15:47:56 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 15:47:56 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 15:47:56 [info] 🔍 Consultando impacto: 1
+2026-01-20 15:47:57 [info] ✔️ Impacto 1 respondió en 557 ms
+2026-01-20 15:47:57 [info] 🔍 Consultando impacto: 2
+2026-01-20 15:47:57 [info] ✔️ Impacto 2 respondió en 99 ms
+2026-01-20 15:47:57 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 15:47:57 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 15:47:57 [info] ✔️ Consultas paralelas completadas en 398 ms
+2026-01-20 15:47:57 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 15:47:57 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 15:47:57 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 15:47:57 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 15:47:57 [info] ✔️ Power BI respondió en 102 ms
+2026-01-20 15:47:57 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 15:47:57 [info] ✔️ getFullEquipoData() OK en 106 ms
+2026-01-20 15:47:57 [info] ✔️ getOfferMatrixData() OK en 0 ms
+2026-01-20 15:47:57 [info] 🎯 /userinfo completado en 1168 ms
+2026-01-20 15:48:20 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 15:48:20 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 15:48:20 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 15:48:20 [info] 🔍 Consultando impacto: 1
+2026-01-20 15:48:21 [info] ✔️ Impacto 1 respondió en 585 ms
+2026-01-20 15:48:21 [info] 🔍 Consultando impacto: 2
+2026-01-20 15:48:21 [info] ✔️ Impacto 2 respondió en 106 ms
+2026-01-20 15:48:21 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 15:48:21 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 15:48:21 [info] ✔️ Consultas paralelas completadas en 431 ms
+2026-01-20 15:48:21 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 15:48:21 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 15:48:21 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 15:48:21 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 15:48:21 [info] ✔️ Power BI respondió en 197 ms
+2026-01-20 15:48:21 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 15:48:21 [info] ✔️ getFullEquipoData() OK en 204 ms
+2026-01-20 15:48:21 [info] ✔️ getOfferMatrixData() OK en 1 ms
+2026-01-20 15:48:21 [info] 🎯 /userinfo completado en 1334 ms
+2026-01-20 15:48:47 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 15:48:47 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 15:48:47 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 15:48:47 [info] 🔍 Consultando impacto: 1
+2026-01-20 15:48:48 [info] ✔️ Impacto 1 respondió en 556 ms
+2026-01-20 15:48:48 [info] 🔍 Consultando impacto: 2
+2026-01-20 15:48:48 [info] ✔️ Impacto 2 respondió en 100 ms
+2026-01-20 15:48:48 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 15:48:48 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 15:48:49 [info] ✔️ Consultas paralelas completadas en 414 ms
+2026-01-20 15:48:49 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 15:48:49 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 15:48:49 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 15:48:49 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 15:48:49 [info] ✔️ Power BI respondió en 99 ms
+2026-01-20 15:48:49 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 15:48:49 [info] ✔️ getFullEquipoData() OK en 105 ms
+2026-01-20 15:48:49 [info] ✔️ getOfferMatrixData() OK en 1 ms
+2026-01-20 15:48:49 [info] 🎯 /userinfo completado en 1184 ms
+2026-01-20 15:49:35 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 15:49:35 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 15:49:35 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 15:49:35 [info] 🔍 Consultando impacto: 1
+2026-01-20 15:49:36 [info] ✔️ Impacto 1 respondió en 547 ms
+2026-01-20 15:49:36 [info] 🔍 Consultando impacto: 2
+2026-01-20 15:49:36 [info] ✔️ Impacto 2 respondió en 100 ms
+2026-01-20 15:49:36 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 15:49:36 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 15:49:36 [info] ✔️ Consultas paralelas completadas en 409 ms
+2026-01-20 15:49:36 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 15:49:36 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 15:49:36 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 15:49:36 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 15:49:36 [info] ✔️ Power BI respondió en 103 ms
+2026-01-20 15:49:36 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 15:49:36 [info] ✔️ getFullEquipoData() OK en 109 ms
+2026-01-20 15:49:36 [info] ✔️ getOfferMatrixData() OK en 4 ms
+2026-01-20 15:49:36 [info] 🎯 /userinfo completado en 1183 ms
+2026-01-20 15:55:37 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 15:55:37 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 15:55:37 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 15:55:37 [info] 🔍 Consultando impacto: 1
+2026-01-20 15:55:38 [info] ✔️ Impacto 1 respondió en 557 ms
+2026-01-20 15:55:38 [info] 🔍 Consultando impacto: 2
+2026-01-20 15:55:38 [info] ✔️ Impacto 2 respondió en 99 ms
+2026-01-20 15:55:38 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 15:55:38 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 15:55:38 [info] ✔️ Consultas paralelas completadas en 395 ms
+2026-01-20 15:55:38 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 15:55:38 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 15:55:38 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 15:55:38 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 15:55:38 [info] ✔️ Power BI respondió en 102 ms
+2026-01-20 15:55:38 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 15:55:38 [info] ✔️ getFullEquipoData() OK en 109 ms
+2026-01-20 15:55:38 [info] ✔️ getOfferMatrixData() OK en 1 ms
+2026-01-20 15:55:38 [info] 🎯 /userinfo completado en 1169 ms
+2026-01-20 15:56:27 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 15:56:27 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 15:56:27 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 15:56:27 [info] 🔍 Consultando impacto: 1
+2026-01-20 15:56:28 [info] ✔️ Impacto 1 respondió en 607 ms
+2026-01-20 15:56:28 [info] 🔍 Consultando impacto: 2
+2026-01-20 15:56:28 [info] ✔️ Impacto 2 respondió en 101 ms
+2026-01-20 15:56:28 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 15:56:28 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 15:56:28 [info] ✔️ Consultas paralelas completadas en 408 ms
+2026-01-20 15:56:28 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 15:56:28 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 15:56:28 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 15:56:28 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 15:56:28 [info] ✔️ Power BI respondió en 101 ms
+2026-01-20 15:56:28 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 15:56:29 [info] ✔️ getFullEquipoData() OK en 106 ms
+2026-01-20 15:56:29 [info] ✔️ getOfferMatrixData() OK en 0 ms
+2026-01-20 15:56:29 [info] 🎯 /userinfo completado en 1234 ms
+2026-01-20 15:57:11 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 15:57:11 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 15:57:11 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 15:57:11 [info] 🔍 Consultando impacto: 1
+2026-01-20 15:57:11 [info] ✔️ Impacto 1 respondió en 529 ms
+2026-01-20 15:57:11 [info] 🔍 Consultando impacto: 2
+2026-01-20 15:57:11 [info] ✔️ Impacto 2 respondió en 103 ms
+2026-01-20 15:57:11 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 15:57:11 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 15:57:12 [info] ✔️ Consultas paralelas completadas en 396 ms
+2026-01-20 15:57:12 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 15:57:12 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 15:57:12 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 15:57:12 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 15:57:12 [info] ✔️ Power BI respondió en 100 ms
+2026-01-20 15:57:12 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 15:57:12 [info] ✔️ getFullEquipoData() OK en 105 ms
+2026-01-20 15:57:12 [info] ✔️ getOfferMatrixData() OK en 1 ms
+2026-01-20 15:57:12 [info] 🎯 /userinfo completado en 1140 ms
+2026-01-20 15:57:57 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 15:57:57 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 15:57:57 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 15:57:57 [info] 🔍 Consultando impacto: 1
+2026-01-20 15:57:58 [info] ✔️ Impacto 1 respondió en 564 ms
+2026-01-20 15:57:58 [info] 🔍 Consultando impacto: 2
+2026-01-20 15:57:58 [info] ✔️ Impacto 2 respondió en 99 ms
+2026-01-20 15:57:58 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 15:57:58 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 15:57:58 [info] ✔️ Consultas paralelas completadas en 399 ms
+2026-01-20 15:57:58 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 15:57:58 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 15:57:58 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 15:57:58 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 15:57:59 [info] ✔️ Power BI respondió en 102 ms
+2026-01-20 15:57:59 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 15:57:59 [info] ✔️ getFullEquipoData() OK en 110 ms
+2026-01-20 15:57:59 [info] ✔️ getOfferMatrixData() OK en 0 ms
+2026-01-20 15:57:59 [info] 🎯 /userinfo completado en 1183 ms
+2026-01-20 16:00:58 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:00:58 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:00:58 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:00:58 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:00:58 [info] ✔️ Impacto 1 respondió en 593 ms
+2026-01-20 16:00:58 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:00:58 [info] ✔️ Impacto 2 respondió en 103 ms
+2026-01-20 16:00:58 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:00:58 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:00:59 [info] ✔️ Consultas paralelas completadas en 401 ms
+2026-01-20 16:00:59 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:00:59 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:00:59 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:00:59 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:00:59 [info] ✔️ Power BI respondió en 104 ms
+2026-01-20 16:00:59 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:00:59 [info] ✔️ getFullEquipoData() OK en 113 ms
+2026-01-20 16:00:59 [info] ✔️ getOfferMatrixData() OK en 2 ms
+2026-01-20 16:00:59 [info] 🎯 /userinfo completado en 1225 ms
+2026-01-20 16:02:23 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:02:23 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:02:23 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:02:23 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:02:23 [info] ✔️ Impacto 1 respondió en 582 ms
+2026-01-20 16:02:23 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:02:23 [info] ✔️ Impacto 2 respondió en 104 ms
+2026-01-20 16:02:23 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:02:23 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:02:24 [info] ✔️ Consultas paralelas completadas en 394 ms
+2026-01-20 16:02:24 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:02:24 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:02:24 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:02:24 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:02:24 [info] ✔️ Power BI respondió en 99 ms
+2026-01-20 16:02:24 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:02:24 [info] ✔️ getFullEquipoData() OK en 105 ms
+2026-01-20 16:02:24 [info] ✔️ getOfferMatrixData() OK en 2 ms
+2026-01-20 16:02:24 [info] 🎯 /userinfo completado en 1195 ms
+2026-01-20 16:05:39 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:05:39 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:05:39 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:05:39 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:05:40 [info] ✔️ Impacto 1 respondió en 559 ms
+2026-01-20 16:05:40 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:05:40 [info] ✔️ Impacto 2 respondió en 103 ms
+2026-01-20 16:05:40 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:05:40 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:05:40 [info] ✔️ Consultas paralelas completadas en 396 ms
+2026-01-20 16:05:40 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:05:40 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:05:40 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:05:40 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:05:40 [info] ✔️ Power BI respondió en 100 ms
+2026-01-20 16:05:40 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:05:40 [info] ✔️ getFullEquipoData() OK en 107 ms
+2026-01-20 16:05:40 [info] 📡 Iniciando getOfferMatrixData() plan="undefined" value="undefined"
+2026-01-20 16:05:40 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:05:41 [info] ✔️ Consultas paralelas completadas en 254 ms
+2026-01-20 16:05:41 [error] TypeError: Cannot read properties of undefined (reading '0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:2:57)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:31:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:72:22)
+2026-01-20 16:05:41 [info] ✔️ getOfferMatrixData() OK en 257 ms
+2026-01-20 16:05:41 [info] 🎯 /userinfo completado en 1431 ms
+2026-01-20 16:06:07 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:06:07 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:06:07 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:06:07 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:06:08 [info] ✔️ Impacto 1 respondió en 565 ms
+2026-01-20 16:06:08 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:06:08 [info] ✔️ Impacto 2 respondió en 100 ms
+2026-01-20 16:06:08 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:06:08 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:06:08 [info] ✔️ Consultas paralelas completadas en 390 ms
+2026-01-20 16:06:08 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:06:08 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:06:08 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:06:08 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:06:08 [info] ✔️ Power BI respondió en 99 ms
+2026-01-20 16:06:08 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:06:08 [info] ✔️ getFullEquipoData() OK en 101 ms
+2026-01-20 16:06:08 [info] 📡 Iniciando getOfferMatrixData() plan="undefined" value="undefined"
+2026-01-20 16:06:08 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:06:08 [info] ✔️ Consultas paralelas completadas en 99 ms
+2026-01-20 16:06:08 [error] TypeError: Cannot read properties of undefined (reading '0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:2:57)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:31:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-20 16:06:08 [info] ✔️ getOfferMatrixData() OK en 101 ms
+2026-01-20 16:06:08 [info] 🎯 /userinfo completado en 1265 ms
+2026-01-20 16:08:30 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:08:30 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:08:30 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:08:30 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:08:30 [info] ✔️ Impacto 1 respondió en 578 ms
+2026-01-20 16:08:30 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:08:30 [info] ✔️ Impacto 2 respondió en 105 ms
+2026-01-20 16:08:30 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:08:30 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:08:31 [info] ✔️ Consultas paralelas completadas en 399 ms
+2026-01-20 16:08:31 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:08:31 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:08:31 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:08:31 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:08:31 [info] ✔️ Power BI respondió en 103 ms
+2026-01-20 16:08:31 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:08:31 [info] ✔️ getFullEquipoData() OK en 112 ms
+2026-01-20 16:08:31 [info] 📡 Iniciando getOfferMatrixData() plan="undefined" value="79900"
+2026-01-20 16:08:31 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:08:31 [info] ✔️ Consultas paralelas completadas en 290 ms
+2026-01-20 16:08:31 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:31:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-20 16:08:31 [info] ✔️ getOfferMatrixData() OK en 297 ms
+2026-01-20 16:08:31 [info] 🎯 /userinfo completado en 1501 ms
+2026-01-20 16:09:26 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:09:26 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:09:26 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:09:26 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:09:26 [info] ✔️ Impacto 1 respondió en 559 ms
+2026-01-20 16:09:26 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:09:26 [info] ✔️ Impacto 2 respondió en 102 ms
+2026-01-20 16:09:26 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:09:26 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:09:27 [info] ✔️ Consultas paralelas completadas en 406 ms
+2026-01-20 16:09:27 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:09:27 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:09:27 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:09:27 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:09:27 [info] ✔️ Power BI respondió en 101 ms
+2026-01-20 16:09:27 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:09:27 [info] ✔️ getFullEquipoData() OK en 109 ms
+2026-01-20 16:09:27 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+_V2 763|7631" value="79900"
+2026-01-20 16:09:27 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:09:27 [info] ✔️ Consultas paralelas completadas en 255 ms
+2026-01-20 16:09:27 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:31:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-20 16:09:27 [info] ✔️ getOfferMatrixData() OK en 261 ms
+2026-01-20 16:09:27 [info] 🎯 /userinfo completado en 1449 ms
+2026-01-20 16:09:49 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:09:49 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:09:49 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:09:49 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:09:49 [info] ✔️ Impacto 1 respondió en 549 ms
+2026-01-20 16:09:49 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:09:49 [info] ✔️ Impacto 2 respondió en 101 ms
+2026-01-20 16:09:49 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:09:49 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:09:50 [info] ✔️ Consultas paralelas completadas en 406 ms
+2026-01-20 16:09:50 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:09:50 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:09:50 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:09:50 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:09:50 [info] ✔️ Power BI respondió en 104 ms
+2026-01-20 16:09:50 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:09:50 [info] ✔️ getFullEquipoData() OK en 112 ms
+2026-01-20 16:09:50 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+_V2 763|7631" value="79900"
+2026-01-20 16:09:50 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:09:50 [info] ✔️ Consultas paralelas completadas en 104 ms
+2026-01-20 16:09:50 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:31:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-20 16:09:50 [info] ✔️ getOfferMatrixData() OK en 110 ms
+2026-01-20 16:09:50 [info] 🎯 /userinfo completado en 1292 ms
+2026-01-20 16:10:21 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:10:21 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:10:21 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:10:21 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:10:21 [info] ✔️ Impacto 1 respondió en 579 ms
+2026-01-20 16:10:21 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:10:21 [info] ✔️ Impacto 2 respondió en 105 ms
+2026-01-20 16:10:21 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:10:21 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:10:22 [info] ✔️ Consultas paralelas completadas en 407 ms
+2026-01-20 16:10:22 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:10:22 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:10:22 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:10:22 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:10:22 [info] ✔️ Power BI respondió en 100 ms
+2026-01-20 16:10:22 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:10:22 [info] ✔️ getFullEquipoData() OK en 105 ms
+2026-01-20 16:10:22 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)" value="79900"
+2026-01-20 16:10:22 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:10:22 [info] ✔️ Consultas paralelas completadas en 334 ms
+2026-01-20 16:10:22 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:31:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-20 16:10:22 [info] ✔️ getOfferMatrixData() OK en 340 ms
+2026-01-20 16:10:22 [info] 🎯 /userinfo completado en 1551 ms
+2026-01-20 16:10:48 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:10:48 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:10:48 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:10:48 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:10:49 [info] ✔️ Impacto 1 respondió en 581 ms
+2026-01-20 16:10:49 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:10:49 [info] ✔️ Impacto 2 respondió en 97 ms
+2026-01-20 16:10:49 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:10:49 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:10:49 [info] ✔️ Consultas paralelas completadas en 392 ms
+2026-01-20 16:10:49 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:10:49 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:10:49 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:10:49 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:10:49 [info] ✔️ Power BI respondió en 99 ms
+2026-01-20 16:10:49 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:10:49 [info] ✔️ getFullEquipoData() OK en 106 ms
+2026-01-20 16:10:49 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)" value="79900"
+2026-01-20 16:10:49 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:10:49 [info] ✔️ Consultas paralelas completadas en 106 ms
+2026-01-20 16:10:49 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:31:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-20 16:10:49 [info] ✔️ getOfferMatrixData() OK en 108 ms
+2026-01-20 16:10:49 [info] 🎯 /userinfo completado en 1291 ms
+2026-01-20 16:15:56 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:15:56 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:15:56 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:15:56 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:15:59 [info] ✔️ Impacto 1 respondió en 2811 ms
+2026-01-20 16:15:59 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:16:01 [info] ✔️ Impacto 2 respondió en 1763 ms
+2026-01-20 16:16:01 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:16:01 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:16:07 [info] ✔️ Consultas paralelas completadas en 5989 ms
+2026-01-20 16:16:07 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:16:07 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:16:07 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:16:07 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:16:10 [info] ✔️ Power BI respondió en 2865 ms
+2026-01-20 16:16:10 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:16:10 [info] ✔️ getFullEquipoData() OK en 2867 ms
+2026-01-20 16:16:10 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.2 Plus Seg" value="79900"
+2026-01-20 16:16:10 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:16:17 [info] ✔️ Consultas paralelas completadas en 7385 ms
+2026-01-20 16:16:17 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:31:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-20 16:16:17 [info] ✔️ getOfferMatrixData() OK en 7387 ms
+2026-01-20 16:16:17 [info] 🎯 /userinfo completado en 20821 ms
+2026-01-20 16:17:16 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:17:16 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:17:16 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:17:16 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:17:16 [info] ✔️ Impacto 1 respondió en 644 ms
+2026-01-20 16:17:16 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:17:17 [info] ✔️ Impacto 2 respondió en 106 ms
+2026-01-20 16:17:17 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:17:17 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:17:17 [info] ✔️ Consultas paralelas completadas en 419 ms
+2026-01-20 16:17:17 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:17:17 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:17:17 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:17:17 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:17:17 [info] ✔️ Power BI respondió en 102 ms
+2026-01-20 16:17:17 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:17:17 [info] ✔️ getFullEquipoData() OK en 109 ms
+2026-01-20 16:17:17 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451)" value="79900"
+2026-01-20 16:17:17 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:17:17 [info] ✔️ Consultas paralelas completadas en 278 ms
+2026-01-20 16:17:17 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:31:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-20 16:17:17 [info] ✔️ getOfferMatrixData() OK en 282 ms
+2026-01-20 16:17:17 [info] 🎯 /userinfo completado en 1577 ms
+2026-01-20 16:17:47 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:17:47 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:17:47 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:17:47 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:17:48 [info] ✔️ Impacto 1 respondió en 492 ms
+2026-01-20 16:17:48 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:17:48 [info] ✔️ Impacto 2 respondió en 100 ms
+2026-01-20 16:17:48 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:17:48 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:17:48 [info] ✔️ Consultas paralelas completadas en 403 ms
+2026-01-20 16:17:48 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:17:48 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:17:48 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:17:48 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:17:48 [info] ✔️ Power BI respondió en 104 ms
+2026-01-20 16:17:48 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:17:48 [info] ✔️ getFullEquipoData() OK en 106 ms
+2026-01-20 16:17:48 [info] 📡 Iniciando getOfferMatrixData() plan="undefined (undefined|undefined1)" value="79900"
+2026-01-20 16:17:48 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:17:49 [info] ✔️ Consultas paralelas completadas en 246 ms
+2026-01-20 16:17:49 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:31:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-20 16:17:49 [info] ✔️ getOfferMatrixData() OK en 249 ms
+2026-01-20 16:17:49 [info] 🎯 /userinfo completado en 1359 ms
+2026-01-20 16:21:43 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:21:43 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:21:43 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:21:43 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:21:44 [info] ✔️ Impacto 1 respondió en 497 ms
+2026-01-20 16:21:44 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:21:44 [info] ✔️ Impacto 2 respondió en 99 ms
+2026-01-20 16:21:44 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:21:44 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:21:44 [info] ✔️ Consultas paralelas completadas en 510 ms
+2026-01-20 16:21:44 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:21:44 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:21:44 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:21:44 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:21:44 [info] ✔️ Power BI respondió en 98 ms
+2026-01-20 16:21:44 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:21:44 [info] ✔️ getFullEquipoData() OK en 107 ms
+2026-01-20 16:21:44 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.11 (744|7441)" value="79900"
+2026-01-20 16:21:44 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:21:45 [info] ✔️ Consultas paralelas completadas en 326 ms
+2026-01-20 16:21:45 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:31:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-20 16:21:45 [info] ✔️ getOfferMatrixData() OK en 330 ms
+2026-01-20 16:21:45 [info] 🎯 /userinfo completado en 1548 ms
+2026-01-20 16:23:17 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:23:17 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:23:17 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:23:17 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:23:17 [info] ✔️ Impacto 1 respondió en 594 ms
+2026-01-20 16:23:17 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:23:17 [info] ✔️ Impacto 2 respondió en 103 ms
+2026-01-20 16:23:17 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:23:17 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:23:18 [info] ✔️ Consultas paralelas completadas en 401 ms
+2026-01-20 16:23:18 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:23:18 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:23:18 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:23:18 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:23:18 [info] ✔️ Power BI respondió en 102 ms
+2026-01-20 16:23:18 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:23:18 [info] ✔️ getFullEquipoData() OK en 111 ms
+2026-01-20 16:23:18 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.11 (744|7441)" value="79900"
+2026-01-20 16:23:18 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:23:18 [info] ✔️ Consultas paralelas completadas en 105 ms
+2026-01-20 16:23:18 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:31:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-20 16:23:18 [info] ✔️ getOfferMatrixData() OK en 112 ms
+2026-01-20 16:23:18 [info] 🎯 /userinfo completado en 1333 ms
+2026-01-20 16:23:48 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:23:48 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:23:48 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:23:48 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:23:49 [info] ✔️ Impacto 1 respondió en 536 ms
+2026-01-20 16:23:49 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:23:49 [info] ✔️ Impacto 2 respondió en 95 ms
+2026-01-20 16:23:49 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:23:49 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:23:49 [info] ✔️ Consultas paralelas completadas en 394 ms
+2026-01-20 16:23:49 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:23:49 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:23:49 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:23:49 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:23:49 [info] ✔️ Power BI respondió en 99 ms
+2026-01-20 16:23:49 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:23:49 [info] ✔️ getFullEquipoData() OK en 104 ms
+2026-01-20 16:23:49 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.11 (744|7441)" value="79900"
+2026-01-20 16:23:49 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:23:49 [info] ✔️ Consultas paralelas completadas en 102 ms
+2026-01-20 16:23:49 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:31:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-20 16:23:49 [info] ✔️ getOfferMatrixData() OK en 107 ms
+2026-01-20 16:23:49 [info] 🎯 /userinfo completado en 1246 ms
+2026-01-20 16:26:25 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:26:25 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:26:25 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:26:25 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:26:25 [info] ✔️ Impacto 1 respondió en 501 ms
+2026-01-20 16:26:25 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:26:25 [info] ✔️ Impacto 2 respondió en 103 ms
+2026-01-20 16:26:25 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:26:25 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:26:26 [info] ✔️ Consultas paralelas completadas en 398 ms
+2026-01-20 16:26:26 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:26:26 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:26:26 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:26:26 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:26:26 [info] ✔️ Power BI respondió en 105 ms
+2026-01-20 16:26:26 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:26:26 [info] ✔️ getFullEquipoData() OK en 110 ms
+2026-01-20 16:26:26 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.11 (744|7441)" value="69900"
+2026-01-20 16:26:26 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:26:26 [info] ✔️ Consultas paralelas completadas en 320 ms
+2026-01-20 16:26:26 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-20 16:26:26 [info] ✔️ getOfferMatrixData() OK en 325 ms
+2026-01-20 16:26:26 [info] 🎯 /userinfo completado en 1452 ms
+2026-01-20 16:26:44 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:26:44 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:26:44 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:26:44 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:26:45 [info] ✔️ Impacto 1 respondió en 579 ms
+2026-01-20 16:26:45 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:26:45 [info] ✔️ Impacto 2 respondió en 99 ms
+2026-01-20 16:26:45 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:26:45 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:26:45 [info] ✔️ Consultas paralelas completadas en 407 ms
+2026-01-20 16:26:45 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:26:45 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:26:45 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:26:45 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:26:46 [info] ✔️ Power BI respondió en 104 ms
+2026-01-20 16:26:46 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:26:46 [info] ✔️ getFullEquipoData() OK en 115 ms
+2026-01-20 16:26:46 [info] 📡 Iniciando getOfferMatrixData() plan="undefined (undefined|undefined1)" value="69900"
+2026-01-20 16:26:46 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:26:46 [info] ✔️ Consultas paralelas completadas en 272 ms
+2026-01-20 16:26:46 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:31:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-20 16:26:46 [info] ✔️ getOfferMatrixData() OK en 278 ms
+2026-01-20 16:26:46 [info] 🎯 /userinfo completado en 1490 ms
+2026-01-20 16:27:07 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:27:07 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:27:07 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:27:07 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:27:08 [info] ✔️ Impacto 1 respondió en 579 ms
+2026-01-20 16:27:08 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:27:08 [info] ✔️ Impacto 2 respondió en 96 ms
+2026-01-20 16:27:08 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:27:08 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:27:08 [info] ✔️ Consultas paralelas completadas en 403 ms
+2026-01-20 16:27:08 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:27:08 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:27:08 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:27:08 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:27:08 [info] ✔️ Power BI respondió en 104 ms
+2026-01-20 16:27:08 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:27:08 [info] ✔️ getFullEquipoData() OK en 111 ms
+2026-01-20 16:27:08 [info] 📡 Iniciando getOfferMatrixData() plan="undefined (undefined|undefined1)" value="69900"
+2026-01-20 16:27:08 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:27:08 [info] ✔️ Consultas paralelas completadas en 118 ms
+2026-01-20 16:27:08 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:31:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-20 16:27:08 [info] ✔️ getOfferMatrixData() OK en 125 ms
+2026-01-20 16:27:08 [info] 🎯 /userinfo completado en 1323 ms
+2026-01-20 16:27:27 [info] 📥 Nueva solicitud a /userinfo
+2026-01-20 16:27:27 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-20 16:27:27 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-20 16:27:27 [info] 🔍 Consultando impacto: 1
+2026-01-20 16:27:27 [info] ✔️ Impacto 1 respondió en 498 ms
+2026-01-20 16:27:27 [info] 🔍 Consultando impacto: 2
+2026-01-20 16:27:28 [info] ✔️ Impacto 2 respondió en 101 ms
+2026-01-20 16:27:28 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-20 16:27:28 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-20 16:27:28 [info] ✔️ Consultas paralelas completadas en 416 ms
+2026-01-20 16:27:28 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-20 16:27:28 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-20 16:27:28 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-20 16:27:28 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-20 16:27:28 [info] ✔️ Power BI respondió en 97 ms
+2026-01-20 16:27:28 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-20 16:27:28 [info] ✔️ getFullEquipoData() OK en 99 ms
+2026-01-20 16:27:28 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.11 (744|7441)" value="69900"
+2026-01-20 16:27:28 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-20 16:27:28 [info] ✔️ Consultas paralelas completadas en 103 ms
+2026-01-20 16:27:28 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-20 16:27:28 [info] ✔️ getOfferMatrixData() OK en 107 ms
+2026-01-20 16:27:28 [info] 🎯 /userinfo completado en 1237 ms
+2026-01-21 13:46:14 [info] 📥 Nueva solicitud a /userinfo
+2026-01-21 13:46:14 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-21 13:46:14 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-21 13:46:14 [info] 🔍 Consultando impacto: 1
+2026-01-21 13:46:15 [info] ✔️ Impacto 1 respondió en 667 ms
+2026-01-21 13:46:15 [info] 🔍 Consultando impacto: 2
+2026-01-21 13:46:15 [info] ✔️ Impacto 2 respondió en 104 ms
+2026-01-21 13:46:15 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-21 13:46:15 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-21 13:46:15 [info] ✔️ Consultas paralelas completadas en 405 ms
+2026-01-21 13:46:15 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-21 13:46:15 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-21 13:46:15 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-21 13:46:15 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-21 13:46:16 [info] ✔️ Power BI respondió en 105 ms
+2026-01-21 13:46:16 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-21 13:46:16 [info] ✔️ getFullEquipoData() OK en 113 ms
+2026-01-21 13:46:16 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.11 (744|7441)" value="69900"
+2026-01-21 13:46:16 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-21 13:46:16 [info] ✔️ Consultas paralelas completadas en 325 ms
+2026-01-21 13:46:16 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-21 13:46:16 [info] ✔️ getOfferMatrixData() OK en 329 ms
+2026-01-21 13:46:16 [info] 🎯 /userinfo completado en 1634 ms
+2026-01-21 13:47:40 [info] 📥 Nueva solicitud a /userinfo
+2026-01-21 13:47:40 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-21 13:47:40 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-21 13:47:40 [info] 🔍 Consultando impacto: 1
+2026-01-21 13:47:40 [info] ✔️ Impacto 1 respondió en 600 ms
+2026-01-21 13:47:40 [info] 🔍 Consultando impacto: 2
+2026-01-21 13:47:40 [info] ✔️ Impacto 2 respondió en 103 ms
+2026-01-21 13:47:40 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-21 13:47:40 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-21 13:47:41 [info] ✔️ Consultas paralelas completadas en 406 ms
+2026-01-21 13:47:41 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-21 13:47:41 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-21 13:47:41 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-21 13:47:41 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-21 13:47:41 [info] ✔️ Power BI respondió en 103 ms
+2026-01-21 13:47:41 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-21 13:47:41 [info] ✔️ getFullEquipoData() OK en 111 ms
+2026-01-21 13:47:41 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.11 (744|7441)" value="69900"
+2026-01-21 13:47:41 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-21 13:47:41 [info] ✔️ Consultas paralelas completadas en 234 ms
+2026-01-21 13:47:41 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-21 13:47:41 [info] ✔️ getOfferMatrixData() OK en 240 ms
+2026-01-21 13:47:41 [info] 🎯 /userinfo completado en 1473 ms
+2026-01-21 13:49:27 [info] 📥 Nueva solicitud a /userinfo
+2026-01-21 13:49:27 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-21 13:49:27 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-21 13:49:27 [info] 🔍 Consultando impacto: 1
+2026-01-21 13:49:27 [info] ✔️ Impacto 1 respondió en 692 ms
+2026-01-21 13:49:27 [info] 🔍 Consultando impacto: 2
+2026-01-21 13:49:27 [info] ✔️ Impacto 2 respondió en 100 ms
+2026-01-21 13:49:27 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-21 13:49:27 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-21 13:49:28 [info] ✔️ Consultas paralelas completadas en 414 ms
+2026-01-21 13:49:28 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-21 13:49:28 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-21 13:49:28 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-21 13:49:28 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-21 13:49:28 [info] ✔️ Power BI respondió en 105 ms
+2026-01-21 13:49:28 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-21 13:49:28 [info] ✔️ getFullEquipoData() OK en 120 ms
+2026-01-21 13:49:28 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.11 (744|7441)"
+2026-01-21 13:49:28 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-21 13:49:28 [info] ✔️ Consultas paralelas completadas en 266 ms
+2026-01-21 13:49:28 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-21 13:49:28 [info] ✔️ getOfferMatrixData() OK en 280 ms
+2026-01-21 13:49:28 [info] 🎯 /userinfo completado en 1623 ms
+2026-01-21 13:51:35 [info] 📥 Nueva solicitud a /userinfo
+2026-01-21 13:51:35 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-21 13:51:35 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-21 13:51:35 [info] 🔍 Consultando impacto: 1
+2026-01-21 13:51:35 [info] ✔️ Impacto 1 respondió en 511 ms
+2026-01-21 13:51:35 [info] 🔍 Consultando impacto: 2
+2026-01-21 13:51:35 [info] ✔️ Impacto 2 respondió en 106 ms
+2026-01-21 13:51:35 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-21 13:51:35 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-21 13:51:36 [info] ✔️ Consultas paralelas completadas en 409 ms
+2026-01-21 13:51:36 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-21 13:51:36 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-21 13:51:36 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-21 13:51:36 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-21 13:51:36 [info] ✔️ Power BI respondió en 102 ms
+2026-01-21 13:51:36 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-21 13:51:36 [info] ✔️ getFullEquipoData() OK en 107 ms
+2026-01-21 13:51:36 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451)"
+2026-01-21 13:51:36 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-21 13:51:36 [info] ✔️ Consultas paralelas completadas en 246 ms
+2026-01-21 13:51:36 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:29:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-21 13:51:36 [info] ✔️ getOfferMatrixData() OK en 252 ms
+2026-01-21 13:51:36 [info] 🎯 /userinfo completado en 1395 ms
+2026-01-21 13:55:02 [info] 📥 Nueva solicitud a /userinfo
+2026-01-21 13:55:02 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-21 13:55:02 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-21 13:55:02 [info] 🔍 Consultando impacto: 1
+2026-01-21 13:55:03 [info] ✔️ Impacto 1 respondió en 525 ms
+2026-01-21 13:55:03 [info] 🔍 Consultando impacto: 2
+2026-01-21 13:55:03 [info] ✔️ Impacto 2 respondió en 101 ms
+2026-01-21 13:55:03 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-21 13:55:03 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-21 13:55:03 [info] ✔️ Consultas paralelas completadas en 413 ms
+2026-01-21 13:55:03 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-21 13:55:03 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-21 13:55:03 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-21 13:55:03 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-21 13:55:03 [info] ✔️ Power BI respondió en 104 ms
+2026-01-21 13:55:03 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-21 13:55:03 [info] ✔️ getFullEquipoData() OK en 106 ms
+2026-01-21 13:55:03 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451)"
+2026-01-21 13:55:03 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-21 13:55:03 [info] ✔️ Consultas paralelas completadas en 102 ms
+2026-01-21 13:55:03 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:29:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-21 13:55:03 [info] ✔️ getOfferMatrixData() OK en 106 ms
+2026-01-21 13:55:03 [info] 🎯 /userinfo completado en 1264 ms
+2026-01-21 14:00:08 [info] 📥 Nueva solicitud a /userinfo
+2026-01-21 14:00:08 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-21 14:00:08 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-21 14:00:08 [info] 🔍 Consultando impacto: 1
+2026-01-21 14:00:09 [info] ✔️ Impacto 1 respondió en 494 ms
+2026-01-21 14:00:09 [info] 🔍 Consultando impacto: 2
+2026-01-21 14:00:09 [info] ✔️ Impacto 2 respondió en 106 ms
+2026-01-21 14:00:09 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-21 14:00:09 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-21 14:00:09 [info] ✔️ Consultas paralelas completadas en 417 ms
+2026-01-21 14:00:09 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-21 14:00:09 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-21 14:00:09 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-21 14:00:09 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-21 14:00:09 [info] ✔️ Power BI respondió en 101 ms
+2026-01-21 14:00:09 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-21 14:00:09 [info] ✔️ getFullEquipoData() OK en 105 ms
+2026-01-21 14:00:09 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.13 (750|7501)"
+2026-01-21 14:00:09 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-21 14:00:10 [info] ✔️ Consultas paralelas completadas en 267 ms
+2026-01-21 14:00:10 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:29:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:73:22)
+2026-01-21 14:00:10 [info] ✔️ getOfferMatrixData() OK en 270 ms
+2026-01-21 14:00:10 [info] 🎯 /userinfo completado en 1401 ms
+2026-01-22 09:27:46 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:27:46 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:27:46 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:27:46 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:27:46 [info] ✔️ Impacto 1 respondió en 622 ms
+2026-01-22 09:27:46 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:27:47 [info] ✔️ Impacto 2 respondió en 101 ms
+2026-01-22 09:27:47 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:27:47 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:27:47 [info] ✔️ Consultas paralelas completadas en 391 ms
+2026-01-22 09:27:47 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:27:47 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:27:47 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:27:47 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:27:47 [info] ✔️ Power BI respondió en 121 ms
+2026-01-22 09:27:47 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:27:47 [info] ✔️ getFullEquipoData() OK en 131 ms
+2026-01-22 09:27:47 [error] ❌ Falló getOfferMatrixData() planPowerBI is not defined
+2026-01-22 09:27:47 [info] 🎯 /userinfo completado en 1255 ms
+2026-01-22 09:28:23 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:28:23 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:28:23 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:28:23 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:28:24 [info] ✔️ Impacto 1 respondió en 586 ms
+2026-01-22 09:28:24 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:28:24 [info] ✔️ Impacto 2 respondió en 99 ms
+2026-01-22 09:28:24 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:28:24 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:28:24 [info] ✔️ Consultas paralelas completadas en 396 ms
+2026-01-22 09:28:24 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:28:24 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:28:24 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:28:24 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:28:24 [info] ✔️ Power BI respondió en 104 ms
+2026-01-22 09:28:24 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:28:24 [info] ✔️ getFullEquipoData() OK en 107 ms
+2026-01-22 09:28:24 [info] 📡 Iniciando getOfferMatrixData() plan="[object Object]"
+2026-01-22 09:28:24 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:28:24 [info] ✔️ Consultas paralelas completadas en 290 ms
+2026-01-22 09:28:24 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:29:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:71:22)
+2026-01-22 09:28:24 [info] ✔️ getOfferMatrixData() OK en 293 ms
+2026-01-22 09:28:24 [info] 🎯 /userinfo completado en 1488 ms
+2026-01-22 09:28:34 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:28:34 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:28:34 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:28:34 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:28:35 [info] ✔️ Impacto 1 respondió en 571 ms
+2026-01-22 09:28:35 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:28:35 [info] ✔️ Impacto 2 respondió en 96 ms
+2026-01-22 09:28:35 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:28:35 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:28:35 [info] ✔️ Consultas paralelas completadas en 386 ms
+2026-01-22 09:28:35 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:28:35 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:28:35 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:28:35 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:28:35 [info] ✔️ Power BI respondió en 99 ms
+2026-01-22 09:28:35 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:28:35 [info] ✔️ getFullEquipoData() OK en 107 ms
+2026-01-22 09:28:35 [info] 📡 Iniciando getOfferMatrixData() plan="[object Object]"
+2026-01-22 09:28:35 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:28:36 [info] ✔️ Consultas paralelas completadas en 102 ms
+2026-01-22 09:28:36 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:29:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:72:22)
+2026-01-22 09:28:36 [info] ✔️ getOfferMatrixData() OK en 106 ms
+2026-01-22 09:28:36 [info] 🎯 /userinfo completado en 1274 ms
+2026-01-22 09:29:11 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:29:11 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:29:11 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:29:11 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:29:11 [info] ✔️ Impacto 1 respondió en 579 ms
+2026-01-22 09:29:11 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:29:11 [info] ✔️ Impacto 2 respondió en 99 ms
+2026-01-22 09:29:11 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:29:11 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:29:12 [info] ✔️ Consultas paralelas completadas en 397 ms
+2026-01-22 09:29:12 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:29:12 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:29:12 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:29:12 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:29:12 [info] ✔️ Power BI respondió en 100 ms
+2026-01-22 09:29:12 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:29:12 [info] ✔️ getFullEquipoData() OK en 103 ms
+2026-01-22 09:29:12 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.13 (750|7501)"
+2026-01-22 09:29:12 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:29:12 [info] ✔️ Consultas paralelas completadas en 210 ms
+2026-01-22 09:29:12 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:29:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:72:22)
+2026-01-22 09:29:12 [info] ✔️ getOfferMatrixData() OK en 214 ms
+2026-01-22 09:29:12 [info] 🎯 /userinfo completado en 1398 ms
+2026-01-22 09:29:34 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:29:34 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:29:34 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:29:34 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:29:35 [info] ✔️ Impacto 1 respondió en 578 ms
+2026-01-22 09:29:35 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:29:35 [info] ✔️ Impacto 2 respondió en 99 ms
+2026-01-22 09:29:35 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:29:35 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:29:35 [info] ✔️ Consultas paralelas completadas en 407 ms
+2026-01-22 09:29:35 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:29:35 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:29:35 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:29:35 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:29:35 [info] ✔️ Power BI respondió en 101 ms
+2026-01-22 09:29:35 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:29:35 [info] ✔️ getFullEquipoData() OK en 105 ms
+2026-01-22 09:29:35 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.13 (750|7501)"
+2026-01-22 09:29:35 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:29:35 [info] ✔️ Consultas paralelas completadas en 99 ms
+2026-01-22 09:29:35 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:29:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:72:22)
+2026-01-22 09:29:35 [info] ✔️ getOfferMatrixData() OK en 102 ms
+2026-01-22 09:29:35 [info] 🎯 /userinfo completado en 1301 ms
+2026-01-22 09:30:34 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:30:34 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:30:34 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:30:34 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:30:34 [info] ✔️ Impacto 1 respondió en 498 ms
+2026-01-22 09:30:34 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:30:34 [info] ✔️ Impacto 2 respondió en 95 ms
+2026-01-22 09:30:34 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:30:34 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:30:35 [info] ✔️ Consultas paralelas completadas en 399 ms
+2026-01-22 09:30:35 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:30:35 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:30:35 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:30:35 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:30:35 [info] ✔️ Power BI respondió en 99 ms
+2026-01-22 09:30:35 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:30:35 [info] ✔️ getFullEquipoData() OK en 103 ms
+2026-01-22 09:30:35 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.11 (744|7441)"
+2026-01-22 09:30:35 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:30:35 [info] ✔️ Consultas paralelas completadas en 348 ms
+2026-01-22 09:30:35 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-22 09:30:35 [info] ✔️ getOfferMatrixData() OK en 351 ms
+2026-01-22 09:30:35 [info] 🎯 /userinfo completado en 1450 ms
+2026-01-22 09:33:02 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:33:02 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:33:02 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:33:02 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:33:02 [info] ✔️ Impacto 1 respondió en 607 ms
+2026-01-22 09:33:02 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:33:02 [info] ✔️ Impacto 2 respondió en 100 ms
+2026-01-22 09:33:02 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:33:02 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:33:03 [info] ✔️ Consultas paralelas completadas en 403 ms
+2026-01-22 09:33:03 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:33:03 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:33:03 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:33:03 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:33:03 [info] ✔️ Power BI respondió en 105 ms
+2026-01-22 09:33:03 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:33:03 [info] ✔️ getFullEquipoData() OK en 113 ms
+2026-01-22 09:33:03 [error] ❌ Falló getOfferMatrixData() Cannot read properties of null (reading 'planPowerBI')
+2026-01-22 09:33:03 [info] 🎯 /userinfo completado en 1234 ms
+2026-01-22 09:33:36 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:33:36 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:33:36 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:33:36 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:33:36 [info] ✔️ Impacto 1 respondió en 515 ms
+2026-01-22 09:33:36 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:33:37 [info] ✔️ Impacto 2 respondió en 101 ms
+2026-01-22 09:33:37 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:33:37 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:33:37 [info] ✔️ Consultas paralelas completadas en 405 ms
+2026-01-22 09:33:37 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:33:37 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:33:37 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:33:37 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:33:37 [info] ✔️ Power BI respondió en 98 ms
+2026-01-22 09:33:37 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:33:37 [info] ✔️ getFullEquipoData() OK en 101 ms
+2026-01-22 09:33:37 [error] ❌ Falló getOfferMatrixData() Cannot read properties of null (reading 'planPowerBI')
+2026-01-22 09:33:37 [info] 🎯 /userinfo completado en 1130 ms
+2026-01-22 09:35:37 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:35:37 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:35:37 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:35:37 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:35:37 [info] ✔️ Impacto 1 respondió en 576 ms
+2026-01-22 09:35:37 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:35:37 [info] ✔️ Impacto 2 respondió en 100 ms
+2026-01-22 09:35:37 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:35:37 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:35:38 [info] ✔️ Consultas paralelas completadas en 403 ms
+2026-01-22 09:35:38 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:35:38 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:35:38 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:35:38 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:35:38 [info] ✔️ Power BI respondió en 100 ms
+2026-01-22 09:35:38 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:35:38 [info] ✔️ getFullEquipoData() OK en 106 ms
+2026-01-22 09:35:38 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.13 Seg (753|7531)"
+2026-01-22 09:35:38 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:35:39 [info] ✔️ Consultas paralelas completadas en 708 ms
+2026-01-22 09:35:39 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-22 09:35:39 [info] ✔️ getOfferMatrixData() OK en 712 ms
+2026-01-22 09:35:39 [info] 🎯 /userinfo completado en 1906 ms
+2026-01-22 09:37:35 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:37:35 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:37:35 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:37:35 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:37:35 [info] ✔️ Impacto 1 respondió en 560 ms
+2026-01-22 09:37:35 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:37:35 [info] ✔️ Impacto 2 respondió en 98 ms
+2026-01-22 09:37:35 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:37:35 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:37:36 [info] ✔️ Consultas paralelas completadas en 406 ms
+2026-01-22 09:37:36 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:37:36 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:37:36 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:37:36 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:37:36 [info] ✔️ Power BI respondió en 104 ms
+2026-01-22 09:37:36 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:37:36 [info] ✔️ getFullEquipoData() OK en 111 ms
+2026-01-22 09:37:36 [error] ❌ Falló getOfferMatrixData() plan is not defined
+2026-01-22 09:37:36 [info] 🎯 /userinfo completado en 1185 ms
+2026-01-22 09:37:56 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:37:56 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:37:56 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:37:56 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:37:56 [info] ✔️ Impacto 1 respondió en 543 ms
+2026-01-22 09:37:56 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:37:56 [info] ✔️ Impacto 2 respondió en 99 ms
+2026-01-22 09:37:56 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:37:56 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:37:57 [info] ✔️ Consultas paralelas completadas en 407 ms
+2026-01-22 09:37:57 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:37:57 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:37:57 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:37:57 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:37:57 [info] ✔️ Power BI respondió en 100 ms
+2026-01-22 09:37:57 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:37:57 [info] ✔️ getFullEquipoData() OK en 104 ms
+2026-01-22 09:37:57 [error] ❌ Falló getOfferMatrixData() plan is not defined
+2026-01-22 09:37:57 [info] 🎯 /userinfo completado en 1161 ms
+2026-01-22 09:38:19 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:38:19 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:38:19 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:38:19 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:38:20 [info] ✔️ Impacto 1 respondió en 569 ms
+2026-01-22 09:38:20 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:38:20 [info] ✔️ Impacto 2 respondió en 96 ms
+2026-01-22 09:38:20 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:38:20 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:38:21 [info] ✔️ Consultas paralelas completadas en 461 ms
+2026-01-22 09:38:21 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:38:21 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:38:21 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:38:21 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:38:21 [info] ✔️ Power BI respondió en 105 ms
+2026-01-22 09:38:21 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:38:21 [info] ✔️ getFullEquipoData() OK en 114 ms
+2026-01-22 09:38:21 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.13 Seg (753|7531)"
+2026-01-22 09:38:21 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:38:21 [info] ✔️ Consultas paralelas completadas en 108 ms
+2026-01-22 09:38:21 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-22 09:38:21 [info] ✔️ getOfferMatrixData() OK en 113 ms
+2026-01-22 09:38:21 [info] 🎯 /userinfo completado en 1360 ms
+2026-01-22 09:38:39 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:38:39 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:38:39 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:38:39 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:38:39 [info] ✔️ Impacto 1 respondió en 491 ms
+2026-01-22 09:38:39 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:38:39 [info] ✔️ Impacto 2 respondió en 99 ms
+2026-01-22 09:38:39 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:38:39 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:38:40 [info] ✔️ Consultas paralelas completadas en 398 ms
+2026-01-22 09:38:40 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:38:40 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:38:40 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:38:40 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:38:40 [info] ✔️ Power BI respondió en 99 ms
+2026-01-22 09:38:40 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:38:40 [info] ✔️ getFullEquipoData() OK en 101 ms
+2026-01-22 09:38:40 [info] 📡 Iniciando getOfferMatrixData() plan="undefined"
+2026-01-22 09:38:40 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:38:40 [info] ✔️ Consultas paralelas completadas en 284 ms
+2026-01-22 09:38:40 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:29:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:72:22)
+2026-01-22 09:38:40 [info] ✔️ getOfferMatrixData() OK en 287 ms
+2026-01-22 09:38:40 [info] 🎯 /userinfo completado en 1381 ms
+2026-01-22 09:39:09 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:39:09 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:39:09 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:39:09 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:39:10 [info] ✔️ Impacto 1 respondió en 576 ms
+2026-01-22 09:39:10 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:39:10 [info] ✔️ Impacto 2 respondió en 100 ms
+2026-01-22 09:39:10 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:39:10 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:39:10 [info] ✔️ Consultas paralelas completadas en 394 ms
+2026-01-22 09:39:10 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:39:10 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:39:10 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:39:10 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:39:10 [info] ✔️ Power BI respondió en 98 ms
+2026-01-22 09:39:10 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:39:10 [info] ✔️ getFullEquipoData() OK en 105 ms
+2026-01-22 09:39:10 [info] 📡 Iniciando getOfferMatrixData() plan="undefined"
+2026-01-22 09:39:10 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:39:10 [info] ✔️ Consultas paralelas completadas en 102 ms
+2026-01-22 09:39:10 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:29:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:72:22)
+2026-01-22 09:39:10 [info] ✔️ getOfferMatrixData() OK en 105 ms
+2026-01-22 09:39:10 [info] 🎯 /userinfo completado en 1290 ms
+2026-01-22 09:40:57 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:40:57 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:40:57 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:40:57 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:40:57 [info] ✔️ Impacto 1 respondió en 578 ms
+2026-01-22 09:40:57 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:40:57 [info] ✔️ Impacto 2 respondió en 102 ms
+2026-01-22 09:40:57 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:40:57 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:40:58 [info] ✔️ Consultas paralelas completadas en 420 ms
+2026-01-22 09:40:58 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:40:58 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:40:58 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:40:58 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:40:58 [info] ✔️ Power BI respondió en 107 ms
+2026-01-22 09:40:58 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:40:58 [info] ✔️ getFullEquipoData() OK en 117 ms
+2026-01-22 09:40:58 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago 5.13 (750 No Aumento tarifario|7501 - Aplica aumento tarifario)"
+2026-01-22 09:40:58 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:40:58 [info] ✔️ Consultas paralelas completadas en 230 ms
+2026-01-22 09:40:58 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-22 09:40:58 [info] ✔️ getOfferMatrixData() OK en 235 ms
+2026-01-22 09:40:58 [info] 🎯 /userinfo completado en 1466 ms
+2026-01-22 09:46:30 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:46:30 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:46:30 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:46:30 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:46:31 [info] ✔️ Impacto 1 respondió en 588 ms
+2026-01-22 09:46:31 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:46:31 [info] ✔️ Impacto 2 respondió en 99 ms
+2026-01-22 09:46:31 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:46:31 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:46:31 [info] ✔️ Consultas paralelas completadas en 399 ms
+2026-01-22 09:46:31 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:46:31 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:46:31 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:46:31 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:46:31 [info] ✔️ Power BI respondió en 103 ms
+2026-01-22 09:46:31 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:46:31 [info] ✔️ getFullEquipoData() OK en 113 ms
+2026-01-22 09:46:31 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 (742|7421)
+Pospago Fidelizacion 5.0_V2 (766|7661)"
+2026-01-22 09:46:31 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:46:31 [info] ✔️ Consultas paralelas completadas en 235 ms
+2026-01-22 09:46:31 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-22 09:46:31 [info] ✔️ getOfferMatrixData() OK en 241 ms
+2026-01-22 09:46:31 [info] 🎯 /userinfo completado en 1451 ms
+2026-01-22 09:51:38 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:51:38 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:51:38 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:51:38 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:51:39 [info] ✔️ Impacto 1 respondió en 650 ms
+2026-01-22 09:51:39 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:51:39 [info] ✔️ Impacto 2 respondió en 104 ms
+2026-01-22 09:51:39 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:51:39 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:51:39 [info] ✔️ Consultas paralelas completadas en 420 ms
+2026-01-22 09:51:39 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:51:39 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:51:39 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:51:39 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:51:39 [info] ✔️ Power BI respondió en 105 ms
+2026-01-22 09:51:39 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:51:39 [info] ✔️ getFullEquipoData() OK en 113 ms
+2026-01-22 09:51:39 [info] 📡 Iniciando getOfferMatrixData() plan="(764 No Aumento tarifario|7641 - Aplica aumento tarifario)"
+2026-01-22 09:51:39 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:51:40 [info] ✔️ Consultas paralelas completadas en 396 ms
+2026-01-22 09:51:40 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:29:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:72:22)
+2026-01-22 09:51:40 [info] ✔️ getOfferMatrixData() OK en 401 ms
+2026-01-22 09:51:40 [info] 🎯 /userinfo completado en 1708 ms
+2026-01-22 09:52:54 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:52:54 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:52:54 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:52:54 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:52:54 [info] ✔️ Impacto 1 respondió en 519 ms
+2026-01-22 09:52:54 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:52:54 [info] ✔️ Impacto 2 respondió en 105 ms
+2026-01-22 09:52:54 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:52:54 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:52:55 [info] ✔️ Consultas paralelas completadas en 401 ms
+2026-01-22 09:52:55 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:52:55 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:52:55 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:52:55 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:52:55 [info] ✔️ Power BI respondió en 100 ms
+2026-01-22 09:52:55 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:52:55 [info] ✔️ getFullEquipoData() OK en 102 ms
+2026-01-22 09:52:55 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
+2026-01-22 09:52:55 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:52:55 [info] ✔️ Consultas paralelas completadas en 231 ms
+2026-01-22 09:52:55 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:29:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:72:22)
+2026-01-22 09:52:55 [info] ✔️ getOfferMatrixData() OK en 232 ms
+2026-01-22 09:52:55 [info] 🎯 /userinfo completado en 1367 ms
+2026-01-22 09:53:07 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:53:07 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:53:07 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:53:07 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:53:07 [info] ✔️ Impacto 1 respondió en 517 ms
+2026-01-22 09:53:07 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:53:07 [info] ✔️ Impacto 2 respondió en 100 ms
+2026-01-22 09:53:07 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:53:07 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:53:08 [info] ✔️ Consultas paralelas completadas en 409 ms
+2026-01-22 09:53:08 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:53:08 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:53:08 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:53:08 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:53:08 [info] ✔️ Power BI respondió en 100 ms
+2026-01-22 09:53:08 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:53:08 [info] ✔️ getFullEquipoData() OK en 104 ms
+2026-01-22 09:53:08 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451) |
+Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
+2026-01-22 09:53:08 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:53:08 [info] ✔️ Consultas paralelas completadas en 102 ms
+2026-01-22 09:53:08 [info] ⚙️ Aplicando regla: retención plan contiene 'W'
+2026-01-22 09:53:08 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-22 09:53:08 [info] ✔️ getOfferMatrixData() OK en 107 ms
+2026-01-22 09:53:08 [info] 🎯 /userinfo completado en 1244 ms
+2026-01-22 09:55:49 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:55:49 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:55:49 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:55:49 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:55:50 [info] ✔️ Impacto 1 respondió en 568 ms
+2026-01-22 09:55:50 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:55:50 [info] ✔️ Impacto 2 respondió en 103 ms
+2026-01-22 09:55:50 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:55:50 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:55:50 [info] ✔️ Consultas paralelas completadas en 412 ms
+2026-01-22 09:55:50 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:55:50 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:55:50 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:55:50 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:55:50 [info] ✔️ Power BI respondió en 104 ms
+2026-01-22 09:55:50 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:55:50 [info] ✔️ getFullEquipoData() OK en 111 ms
+2026-01-22 09:55:50 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451) |
+Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
+2026-01-22 09:55:50 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:55:50 [info] ✔️ Consultas paralelas completadas en 112 ms
+2026-01-22 09:55:50 [info] ⚙️ Aplicando regla: retención plan contiene 'W'
+2026-01-22 09:55:50 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-22 09:55:50 [info] ✔️ getOfferMatrixData() OK en 118 ms
+2026-01-22 09:55:50 [info] 🎯 /userinfo completado en 1321 ms
+2026-01-22 09:56:04 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:56:04 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:56:04 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:56:04 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:56:04 [info] ✔️ Impacto 1 respondió en 469 ms
+2026-01-22 09:56:04 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:56:04 [info] ✔️ Impacto 2 respondió en 100 ms
+2026-01-22 09:56:04 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:56:04 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:56:05 [info] ✔️ Consultas paralelas completadas en 408 ms
+2026-01-22 09:56:05 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:56:05 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:56:05 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:56:05 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:56:05 [info] ✔️ Power BI respondió en 99 ms
+2026-01-22 09:56:05 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:56:05 [info] ✔️ getFullEquipoData() OK en 101 ms
+2026-01-22 09:56:05 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451) |
+Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
+2026-01-22 09:56:05 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:56:05 [info] ✔️ Consultas paralelas completadas en 98 ms
+2026-01-22 09:56:05 [info] ⚙️ Aplicando regla: retención plan contiene 'W'
+2026-01-22 09:56:05 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-22 09:56:05 [info] ✔️ getOfferMatrixData() OK en 99 ms
+2026-01-22 09:56:05 [info] 🎯 /userinfo completado en 1186 ms
+2026-01-22 09:56:18 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:56:18 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:56:18 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:56:18 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:56:18 [info] ✔️ Impacto 1 respondió en 494 ms
+2026-01-22 09:56:18 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:56:18 [info] ✔️ Impacto 2 respondió en 95 ms
+2026-01-22 09:56:18 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:56:18 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:56:19 [info] ✔️ Consultas paralelas completadas en 392 ms
+2026-01-22 09:56:19 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:56:19 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:56:19 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:56:19 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:56:19 [info] ✔️ Power BI respondió en 98 ms
+2026-01-22 09:56:19 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:56:19 [info] ✔️ getFullEquipoData() OK en 100 ms
+2026-01-22 09:56:19 [info] 📡 Iniciando getOfferMatrixData() plan="(764 No Aumento tarifario | 7641 - Aplica aumento tarifario)"
+2026-01-22 09:56:19 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:56:19 [info] ✔️ Consultas paralelas completadas en 223 ms
+2026-01-22 09:56:19 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:29:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:72:22)
+2026-01-22 09:56:19 [info] ✔️ getOfferMatrixData() OK en 226 ms
+2026-01-22 09:56:19 [info] 🎯 /userinfo completado en 1312 ms
+2026-01-22 09:58:17 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:58:17 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:58:17 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:58:17 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:58:18 [info] ✔️ Impacto 1 respondió en 579 ms
+2026-01-22 09:58:18 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:58:18 [info] ✔️ Impacto 2 respondió en 101 ms
+2026-01-22 09:58:18 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:58:18 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:58:18 [info] ✔️ Consultas paralelas completadas en 400 ms
+2026-01-22 09:58:18 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:58:18 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:58:18 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:58:18 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:58:18 [info] ✔️ Power BI respondió en 100 ms
+2026-01-22 09:58:18 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:58:18 [info] ✔️ getFullEquipoData() OK en 104 ms
+2026-01-22 09:58:18 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ Seg_V2 (764 No Aumento tarifario | 7641 - Aplica aumento tarifario)"
+2026-01-22 09:58:18 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:58:19 [info] ✔️ Consultas paralelas completadas en 262 ms
+2026-01-22 09:58:19 [error] TypeError: Cannot read properties of undefined (reading 'D0')
+    at formatValueDicts (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\sortPlanDetails.js:4:17)
+    at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:29:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:72:22)
+2026-01-22 09:58:19 [info] ✔️ getOfferMatrixData() OK en 264 ms
+2026-01-22 09:58:19 [info] 🎯 /userinfo completado en 1456 ms

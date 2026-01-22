@@ -1,4 +1,4 @@
-function getMatrixData(plan, value) {
+function getMatrixData(plan) {
   return {
     version: "1.0.0",
     queries: [
@@ -132,33 +132,6 @@ function getMatrixData(plan, value) {
                     },
                   ],
                   Where: [
-                    {
-                      Condition: {
-                        In: {
-                          Expressions: [
-                            {
-                              Column: {
-                                Expression: {
-                                  SourceRef: {
-                                    Source: "b",
-                                  },
-                                },
-                                Property: " CB (validar tarifas actualizadas",
-                              },
-                            },
-                          ],
-                          Values: [
-                            [
-                              {
-                                Literal: {
-                                  Value: `${value}M`,
-                                },
-                              },
-                            ],
-                          ],
-                        },
-                      },
-                    },
                     {
                       Condition: {
                         In: {

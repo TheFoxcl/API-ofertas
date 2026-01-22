@@ -3,6 +3,7 @@ const logger = require("../utilities/logger");
 const getFullEquipoData = require("../services/getFullEquipoInfo");
 const getOfferInfo = require("../services/getOffer");
 const getOfferMatrixData = require("../services/getOfferMatrixData");
+const planNameID = require("../utilities/planNameID");
 
 class IndexController {
   async getUserInfo(req, res) {
@@ -11,7 +12,7 @@ class IndexController {
       ip: req.ip,
     });
 
-    const { customerANI, plan, value } = req.body;
+    const { customerANI, plan } = req.body;
     const start = Date.now();
 
     try {
@@ -49,7 +50,7 @@ class IndexController {
       if (offer?.option && typeof offer.option === "string") {
         logger.info(`option recibido: "${offer.option}"`);
 
-        if (offer.option.includes("Matriz")) {
+        if (offer.option.includes("Matriz") && plan) {
           logger.info("⚙️ Cargando datos adicionales porque contiene 'Matriz'");
 
           try {
@@ -66,7 +67,9 @@ class IndexController {
 
           try {
             const t2 = Date.now();
-            matrix = await getOfferMatrixData(plan, value);
+            const PlanName = planNameID(plan);
+            console.log(PlanName.planPowerBI);
+            matrix = await getOfferMatrixData(PlanName?.planPowerBI);
             logger.info(`✔️ getOfferMatrixData() OK en ${Date.now() - t2} ms`);
           } catch (err) {
             matrixError = err.response?.status || 500;

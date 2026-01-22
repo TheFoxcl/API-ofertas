@@ -78,33 +78,6 @@ function getPlanData(plan, value) {
                                     Source: "b",
                                   },
                                 },
-                                Property: " CB (validar tarifas actualizadas",
-                              },
-                            },
-                          ],
-                          Values: [
-                            [
-                              {
-                                Literal: {
-                                  Value: `${value}M`,
-                                },
-                              },
-                            ],
-                          ],
-                        },
-                      },
-                    },
-                    {
-                      Condition: {
-                        In: {
-                          Expressions: [
-                            {
-                              Column: {
-                                Expression: {
-                                  SourceRef: {
-                                    Source: "b",
-                                  },
-                                },
                                 Property: "Plan",
                               },
                             },
