@@ -158,3 +158,34 @@
     at getOfferMatrixData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getOfferMatrixData.js:29:23)
     at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
     at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:72:22)
+2026-01-29 15:21:28 [error] ReferenceError: response is not defined
+    at getFullTigoData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getFullTigoMessage.js:42:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:20:29)
+2026-01-29 16:00:34 [error] ReferenceError: fullTigoMatrizMessage is not defined
+    at getFullTigoDatMatrizData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getFullTigoMatriz.js:22:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:22:37)
+2026-01-29 16:07:19 [error] ReferenceError: alertMessage is not defined
+    at getFullTigoDatMatrizData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getFullTigoMatriz.js:56:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:22:37)
+2026-01-29 16:43:21 [error] ReferenceError: w is not defined
+    at getFullTigoDatMatrizData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getFullTigoMatriz.js:37:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:22:37)
+2026-01-29 17:30:39 [error] TypeError: Cannot read properties of undefined (reading 'G0')
+    at getFullTigoData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getFullTigoMessage.js:45:74)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:21:31)
+2026-01-29 17:30:45 [error] TypeError: Cannot read properties of undefined (reading 'G0')
+    at getFullTigoData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getFullTigoMessage.js:45:74)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:21:31)
+2026-01-29 17:31:49 [error] TypeError: Cannot read properties of undefined (reading 'G0')
+    at getFullTigoData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getFullTigoMessage.js:45:74)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:21:31)
+2026-02-10 14:52:07 [error] 🔥 ERROR crítico en /userinfo
+2026-02-10 14:52:52 [error] 🔥 ERROR crítico en /userinfo
+2026-02-10 14:53:09 [error] 🔥 ERROR crítico en /userinfo

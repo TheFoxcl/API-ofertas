@@ -1,0 +1,98 @@
+function getFullTigoMessage(ANI) {
+  return {
+    version: "1.0.0",
+    queries: [
+      {
+        Query: {
+          Commands: [
+            {
+              SemanticQueryDataShapeCommand: {
+                Query: {
+                  Version: 2,
+                  From: [
+                    {
+                      Name: "a1",
+                      Entity: "Alerta FT",
+                      Type: 0,
+                    },
+                  ],
+                  Select: [
+                    {
+                      Column: {
+                        Expression: {
+                          SourceRef: {
+                            Source: "a1",
+                          },
+                        },
+                        Property: "Mensaje",
+                      },
+                      Name: "Alerta FT.Mensaje",
+                      NativeReferenceName: "Mensaje",
+                    },
+                  ],
+                  Where: [
+                    {
+                      Condition: {
+                        Contains: {
+                          Left: {
+                            Column: {
+                              Expression: {
+                                SourceRef: {
+                                  Source: "a1",
+                                },
+                              },
+                              Property: "Llave",
+                            },
+                          },
+                          Right: {
+                            Literal: {
+                              Value: `'${ANI}'`,
+                            },
+                          },
+                        },
+                      },
+                    },
+                  ],
+                },
+                Binding: {
+                  Primary: {
+                    Groupings: [
+                      {
+                        Projections: [0],
+                        Subtotal: 1,
+                      },
+                    ],
+                  },
+                  DataReduction: {
+                    DataVolume: 3,
+                    Primary: {
+                      Window: {
+                        Count: 500,
+                      },
+                    },
+                  },
+                  Version: 1,
+                },
+                ExecutionMetricsKind: 1,
+              },
+            },
+          ],
+        },
+        QueryId: "",
+        ApplicationContext: {
+          DatasetId: "cd5adb66-02e9-40c2-be93-eca0ba8455ec",
+          Sources: [
+            {
+              ReportId: "436e395d-4b55-426f-b6b4-ebe8e20dab1a",
+              VisualId: "82923c97253bc5508685",
+            },
+          ],
+        },
+      },
+    ],
+    cancelQueries: [],
+    modelId: 1840631,
+  };
+}
+
+module.exports = getFullTigoMessage;

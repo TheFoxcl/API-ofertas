@@ -1,0 +1,125 @@
+function getFullTigoMovil() {
+  return {
+    version: "1.0.0",
+    queries: [
+      {
+        Query: {
+          Commands: [
+            {
+              SemanticQueryDataShapeCommand: {
+                Query: {
+                  Version: 2,
+                  From: [
+                    {
+                      Name: "p",
+                      Entity: "PASO3 FT",
+                      Type: 0,
+                    },
+                  ],
+                  Select: [
+                    {
+                      Column: {
+                        Expression: {
+                          SourceRef: {
+                            Source: "p",
+                          },
+                        },
+                        Property: "Plan a ofrecer Retención",
+                      },
+                      Name: "PASO3 FT.Plan a ofrecer Retención",
+                      NativeReferenceName: "Plan a ofrecer Retención",
+                    },
+                    {
+                      Column: {
+                        Expression: {
+                          SourceRef: {
+                            Source: "p",
+                          },
+                        },
+                        Property: "Beneficios",
+                      },
+                      Name: "PASO3 FT.Beneficios",
+                      NativeReferenceName: "Beneficios",
+                    },
+                    {
+                      Column: {
+                        Expression: {
+                          SourceRef: {
+                            Source: "p",
+                          },
+                        },
+                        Property: "Tarifa Plena",
+                      },
+                      Name: "Sum(PASO3 FT.Tarifa Plena)",
+                      NativeReferenceName: "Tarifa Plena",
+                    },
+                    {
+                      Column: {
+                        Expression: {
+                          SourceRef: {
+                            Source: "p",
+                          },
+                        },
+                        Property: "Dcto x 12meses",
+                      },
+                      Name: "PASO3 FT.Dcto x 12meses",
+                      NativeReferenceName: "Dcto x 12meses",
+                    },
+                    {
+                      Column: {
+                        Expression: {
+                          SourceRef: {
+                            Source: "p",
+                          },
+                        },
+                        Property: "Tarifa Final",
+                      },
+                      Name: "Sum(PASO3 FT.Tarifa Final)",
+                      NativeReferenceName: "Tarifa Final",
+                    },
+                  ],
+                },
+                Binding: {
+                  Primary: {
+                    Groupings: [
+                      {
+                        Projections: [0, 1, 2, 3, 4],
+                        Subtotal: 1,
+                      },
+                    ],
+                  },
+                  DataReduction: {
+                    DataVolume: 3,
+                    Primary: {
+                      Window: {
+                        Count: 500,
+                      },
+                    },
+                  },
+                  Version: 1,
+                },
+                ExecutionMetricsKind: 1,
+              },
+            },
+          ],
+        },
+        CacheKey:
+          '{"Commands":[{"SemanticQueryDataShapeCommand":{"Query":{"Version":2,"From":[{"Name":"p","Entity":"PASO3 FT","Type":0}],"Select":[{"Column":{"Expression":{"SourceRef":{"Source":"p"}},"Property":"Plan a ofrecer Retención"},"Name":"PASO3 FT.Plan a ofrecer Retención","NativeReferenceName":"Plan a ofrecer Retención"},{"Column":{"Expression":{"SourceRef":{"Source":"p"}},"Property":"Beneficios"},"Name":"PASO3 FT.Beneficios","NativeReferenceName":"Beneficios"},{"Column":{"Expression":{"SourceRef":{"Source":"p"}},"Property":"Tarifa Plena"},"Name":"Sum(PASO3 FT.Tarifa Plena)","NativeReferenceName":"Tarifa Plena"},{"Column":{"Expression":{"SourceRef":{"Source":"p"}},"Property":"Dcto x 12meses"},"Name":"PASO3 FT.Dcto x 12meses","NativeReferenceName":"Dcto x 12meses"},{"Column":{"Expression":{"SourceRef":{"Source":"p"}},"Property":"Tarifa Final"},"Name":"Sum(PASO3 FT.Tarifa Final)","NativeReferenceName":"Tarifa Final"}]},"Binding":{"Primary":{"Groupings":[{"Projections":[0,1,2,3,4],"Subtotal":1}]},"DataReduction":{"DataVolume":3,"Primary":{"Window":{"Count":500}}},"Version":1},"ExecutionMetricsKind":1}}]}',
+        QueryId: "",
+        ApplicationContext: {
+          DatasetId: "cd5adb66-02e9-40c2-be93-eca0ba8455ec",
+          Sources: [
+            {
+              ReportId: "436e395d-4b55-426f-b6b4-ebe8e20dab1a",
+              VisualId: "86d7c92d568783e539f6",
+            },
+          ],
+        },
+      },
+    ],
+    cancelQueries: [],
+    modelId: 1840631,
+  };
+}
+
+module.exports = getFullTigoMovil;

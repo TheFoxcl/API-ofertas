@@ -1886,3 +1886,662 @@ Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
     at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:72:22)
 2026-01-22 09:58:19 [info] ✔️ getOfferMatrixData() OK en 264 ms
 2026-01-22 09:58:19 [info] 🎯 /userinfo completado en 1456 ms
+2026-01-22 09:58:33 [info] 📥 Nueva solicitud a /userinfo
+2026-01-22 09:58:33 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-22 09:58:33 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-22 09:58:33 [info] 🔍 Consultando impacto: 1
+2026-01-22 09:58:33 [info] ✔️ Impacto 1 respondió en 579 ms
+2026-01-22 09:58:33 [info] 🔍 Consultando impacto: 2
+2026-01-22 09:58:33 [info] ✔️ Impacto 2 respondió en 100 ms
+2026-01-22 09:58:33 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-22 09:58:33 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-22 09:58:34 [info] ✔️ Consultas paralelas completadas en 411 ms
+2026-01-22 09:58:34 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-22 09:58:34 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-22 09:58:34 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-22 09:58:34 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-22 09:58:34 [info] ✔️ Power BI respondió en 106 ms
+2026-01-22 09:58:34 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-22 09:58:34 [info] ✔️ getFullEquipoData() OK en 115 ms
+2026-01-22 09:58:34 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ Seg_V2 (764 No Aumento tarifario|7641 - Aplica aumento tarifario)"
+2026-01-22 09:58:34 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-22 09:58:34 [info] ✔️ Consultas paralelas completadas en 111 ms
+2026-01-22 09:58:34 [info] ⚙️ Aplicando regla: retención plan contiene 'W'
+2026-01-22 09:58:34 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-22 09:58:34 [info] ✔️ getOfferMatrixData() OK en 115 ms
+2026-01-22 09:58:34 [info] 🎯 /userinfo completado en 1333 ms
+2026-01-28 09:34:35 [info] 📥 Nueva solicitud a /userinfo
+2026-01-28 09:34:56 [info] 📥 Nueva solicitud a /userinfo
+2026-01-28 09:34:59 [info] 📥 Nueva solicitud a /userinfo
+2026-01-28 09:35:05 [info] 📥 Nueva solicitud a /userinfo
+2026-01-28 09:35:05 [info] 🔍 Ejecutando getOfferInfo()...
+2026-01-28 09:35:05 [info] 📡 Iniciando getOfferInfo() para ANI: 3217463422
+2026-01-28 09:35:05 [info] 🔍 Consultando impacto: 1
+2026-01-28 09:35:06 [info] ✔️ Impacto 1 respondió en 674 ms
+2026-01-28 09:35:06 [info] 🔍 Consultando impacto: 2
+2026-01-28 09:35:06 [info] ✔️ Impacto 2 respondió en 252 ms
+2026-01-28 09:35:06 [info] ✅ Impacto 2 encontrado, texto detectado
+2026-01-28 09:35:06 [info] ⏳ Consultando opción, validation y cases en paralelo...
+2026-01-28 09:35:07 [info] ✔️ Consultas paralelas completadas en 559 ms
+2026-01-28 09:35:07 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: 2
+2026-01-28 09:35:07 [info] option recibido: "Ofrece Matriz de Retenci¿n"
+2026-01-28 09:35:07 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-01-28 09:35:07 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-01-28 09:35:07 [info] ✔️ Power BI respondió en 265 ms
+2026-01-28 09:35:07 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-01-28 09:35:07 [info] ✔️ getFullEquipoData() OK en 274 ms
+2026-01-28 09:35:07 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451) |
+Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
+2026-01-28 09:35:07 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-01-28 09:35:07 [info] ✔️ Consultas paralelas completadas en 279 ms
+2026-01-28 09:35:07 [info] ⚙️ Aplicando regla: retención plan contiene 'W'
+2026-01-28 09:35:07 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-01-28 09:35:07 [info] ✔️ getOfferMatrixData() OK en 282 ms
+2026-01-28 09:35:07 [info] 🎯 /userinfo completado en 2053 ms
+2026-01-28 09:35:13 [info] 📥 Nueva solicitud a /userinfo
+2026-01-28 09:42:27 [info] 📥 Nueva solicitud a /userinfo
+2026-01-28 09:42:53 [info] 📥 Nueva solicitud a /userinfo
+2026-01-28 09:57:50 [info] 📥 Nueva solicitud a /userinfo
+2026-01-28 09:57:50 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-28 09:57:51 [info] ✔️ Power BI respondió en 900 ms
+2026-01-28 10:03:13 [info] 📥 Nueva solicitud a /userinfo
+2026-01-28 10:03:13 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-28 10:03:14 [info] ✔️ Power BI respondió en 1001 ms
+2026-01-28 10:03:14 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-28 10:14:38 [info] 📥 Nueva solicitud a /userinfo
+2026-01-28 10:14:38 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-28 10:14:39 [info] ✔️ Power BI respondió en 934 ms
+2026-01-28 10:14:39 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-28 10:15:01 [info] 📥 Nueva solicitud a /userinfo
+2026-01-28 10:15:01 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-28 10:15:02 [info] ✔️ Power BI respondió en 665 ms
+2026-01-28 10:15:02 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-28 10:18:55 [info] 📥 Nueva solicitud a /userinfo
+2026-01-28 10:18:55 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-28 10:18:55 [info] ✔️ Power BI respondió en 689 ms
+2026-01-28 10:18:55 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 09:41:47 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 09:41:47 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 09:41:56 [info] ✔️ Power BI respondió en 8088 ms
+2026-01-29 09:41:56 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:17:40 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:17:40 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:17:41 [info] ✔️ Power BI respondió en 1003 ms
+2026-01-29 15:17:41 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:21:27 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:21:27 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:21:28 [info] ✔️ Power BI respondió en 721 ms
+2026-01-29 15:21:28 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:21:28 [error] ReferenceError: response is not defined
+    at getFullTigoData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getFullTigoMessage.js:42:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:20:29)
+2026-01-29 15:21:50 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:21:50 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:21:51 [info] ✔️ Power BI respondió en 779 ms
+2026-01-29 15:21:51 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:28:15 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:28:15 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:28:16 [info] ✔️ Power BI respondió en 641 ms
+2026-01-29 15:28:16 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:29:00 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:29:00 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:29:10 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:29:10 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:29:10 [info] ✔️ Power BI respondió en 681 ms
+2026-01-29 15:29:10 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:29:35 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:29:35 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:29:35 [info] ✔️ Power BI respondió en 658 ms
+2026-01-29 15:29:35 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:30:49 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:30:49 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:30:50 [info] ✔️ Power BI respondió en 645 ms
+2026-01-29 15:30:50 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:31:14 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:31:14 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:31:14 [info] ✔️ Power BI respondió en 677 ms
+2026-01-29 15:31:14 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:37:52 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:37:52 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:37:53 [info] ✔️ Power BI respondió en 668 ms
+2026-01-29 15:37:53 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:38:09 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:38:09 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:38:10 [info] ✔️ Power BI respondió en 643 ms
+2026-01-29 15:38:10 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:54:32 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:54:32 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:54:33 [info] ✔️ Power BI respondió en 660 ms
+2026-01-29 15:54:33 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:56:58 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:56:58 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:56:58 [info] ✔️ Power BI respondió en 668 ms
+2026-01-29 15:57:39 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:57:39 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:57:39 [info] ✔️ Power BI respondió en 813 ms
+2026-01-29 15:57:39 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:57:53 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:57:53 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:57:54 [info] ✔️ Power BI respondió en 666 ms
+2026-01-29 15:57:54 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:57:57 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:57:57 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:57:57 [info] ✔️ Power BI respondió en 198 ms
+2026-01-29 15:57:57 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:58:10 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:58:10 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:58:11 [info] ✔️ Power BI respondió en 680 ms
+2026-01-29 15:58:11 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:58:28 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:58:28 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:58:29 [info] ✔️ Power BI respondió en 665 ms
+2026-01-29 15:58:29 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 15:58:59 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:58:59 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:59:00 [info] ✔️ Power BI respondió en 662 ms
+2026-01-29 15:59:45 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 15:59:45 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 15:59:46 [info] ✔️ Power BI respondió en 693 ms
+2026-01-29 16:00:33 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:00:33 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:00:34 [info] ✔️ Power BI respondió en 714 ms
+2026-01-29 16:00:34 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:00:34 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:00:34 [error] ReferenceError: fullTigoMatrizMessage is not defined
+    at getFullTigoDatMatrizData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getFullTigoMatriz.js:22:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:22:37)
+2026-01-29 16:02:06 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:02:06 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:02:07 [info] ✔️ Power BI respondió en 666 ms
+2026-01-29 16:02:07 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:02:07 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:02:07 [info] ✔️ Power BI respondió en 100 ms
+2026-01-29 16:02:07 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:02:38 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:02:38 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:02:39 [info] ✔️ Power BI respondió en 698 ms
+2026-01-29 16:02:39 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:02:39 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:02:39 [info] ✔️ Power BI respondió en 101 ms
+2026-01-29 16:02:39 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:02:49 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:02:49 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:02:50 [info] ✔️ Power BI respondió en 647 ms
+2026-01-29 16:02:50 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:02:50 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:02:50 [info] ✔️ Power BI respondió en 104 ms
+2026-01-29 16:02:50 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:03:17 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:03:17 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:03:17 [info] ✔️ Power BI respondió en 645 ms
+2026-01-29 16:03:17 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:03:17 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:03:17 [info] ✔️ Power BI respondió en 99 ms
+2026-01-29 16:03:17 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:03:44 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:03:44 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:03:44 [info] ✔️ Power BI respondió en 652 ms
+2026-01-29 16:03:44 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:03:44 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:03:44 [info] ✔️ Power BI respondió en 98 ms
+2026-01-29 16:03:44 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:07:18 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:07:18 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:07:19 [info] ✔️ Power BI respondió en 659 ms
+2026-01-29 16:07:19 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:07:19 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:07:19 [info] ✔️ Power BI respondió en 247 ms
+2026-01-29 16:07:19 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:07:19 [error] ReferenceError: alertMessage is not defined
+    at getFullTigoDatMatrizData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getFullTigoMatriz.js:56:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:22:37)
+2026-01-29 16:07:36 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:07:36 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:07:37 [info] ✔️ Power BI respondió en 673 ms
+2026-01-29 16:07:37 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:07:37 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:07:37 [info] ✔️ Power BI respondió en 100 ms
+2026-01-29 16:07:37 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:10:37 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:10:37 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:10:37 [info] ✔️ Power BI respondió en 753 ms
+2026-01-29 16:10:37 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:10:37 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:10:37 [info] ✔️ Power BI respondió en 113 ms
+2026-01-29 16:10:37 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:11:26 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:11:26 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:11:26 [info] ✔️ Power BI respondió en 693 ms
+2026-01-29 16:11:26 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:11:26 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:11:27 [info] ✔️ Power BI respondió en 105 ms
+2026-01-29 16:11:27 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:11:51 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:11:51 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:11:52 [info] ✔️ Power BI respondió en 698 ms
+2026-01-29 16:11:52 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:11:52 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:11:52 [info] ✔️ Power BI respondió en 106 ms
+2026-01-29 16:11:52 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:19:19 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:19:19 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:19:19 [info] ✔️ Power BI respondió en 667 ms
+2026-01-29 16:19:19 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:19:19 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:19:19 [info] ✔️ Power BI respondió en 201 ms
+2026-01-29 16:19:19 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:20:43 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:20:43 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:20:44 [info] ✔️ Power BI respondió en 666 ms
+2026-01-29 16:20:44 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:20:44 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:20:44 [info] ✔️ Power BI respondió en 202 ms
+2026-01-29 16:20:44 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:21:29 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:21:29 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:21:30 [info] ✔️ Power BI respondió en 681 ms
+2026-01-29 16:21:30 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:21:30 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:21:30 [info] ✔️ Power BI respondió en 205 ms
+2026-01-29 16:21:30 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:22:09 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:22:09 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:22:09 [info] ✔️ Power BI respondió en 639 ms
+2026-01-29 16:22:09 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:22:09 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:22:09 [info] ✔️ Power BI respondió en 200 ms
+2026-01-29 16:22:09 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:24:18 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:24:18 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:24:19 [info] ✔️ Power BI respondió en 674 ms
+2026-01-29 16:24:19 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:24:19 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:24:19 [info] ✔️ Power BI respondió en 194 ms
+2026-01-29 16:24:19 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:28:10 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:28:10 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:28:11 [info] ✔️ Power BI respondió en 1006 ms
+2026-01-29 16:28:11 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:28:11 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:28:11 [info] ✔️ Power BI respondió en 201 ms
+2026-01-29 16:28:11 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:28:36 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:28:36 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:28:37 [info] ✔️ Power BI respondió en 660 ms
+2026-01-29 16:28:37 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:28:37 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:28:37 [info] ✔️ Power BI respondió en 204 ms
+2026-01-29 16:28:37 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:29:58 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:29:58 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:29:59 [info] ✔️ Power BI respondió en 640 ms
+2026-01-29 16:29:59 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:29:59 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:29:59 [info] ✔️ Power BI respondió en 634 ms
+2026-01-29 16:29:59 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:30:44 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:30:44 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:30:44 [info] ✔️ Power BI respondió en 667 ms
+2026-01-29 16:30:44 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:30:44 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:30:44 [info] ✔️ Power BI respondió en 205 ms
+2026-01-29 16:30:44 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:43:20 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:43:20 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:43:21 [info] ✔️ Power BI respondió en 700 ms
+2026-01-29 16:43:21 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:43:21 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:43:21 [info] ✔️ Power BI respondió en 209 ms
+2026-01-29 16:43:21 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:43:21 [error] ReferenceError: w is not defined
+    at getFullTigoDatMatrizData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getFullTigoMatriz.js:37:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:22:37)
+2026-01-29 16:43:43 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:43:43 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:43:44 [info] ✔️ Power BI respondió en 647 ms
+2026-01-29 16:43:44 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:43:44 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:43:44 [info] ✔️ Power BI respondió en 199 ms
+2026-01-29 16:43:44 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:44:13 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:44:13 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:44:14 [info] ✔️ Power BI respondió en 670 ms
+2026-01-29 16:44:14 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:44:14 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:44:14 [info] ✔️ Power BI respondió en 197 ms
+2026-01-29 16:44:14 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:45:19 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:45:19 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:45:20 [info] ✔️ Power BI respondió en 640 ms
+2026-01-29 16:45:20 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:45:20 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:45:20 [info] ✔️ Power BI respondió en 205 ms
+2026-01-29 16:45:20 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:46:25 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:46:25 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:46:25 [info] ✔️ Power BI respondió en 652 ms
+2026-01-29 16:46:25 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:46:25 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:46:26 [info] ✔️ Power BI respondió en 203 ms
+2026-01-29 16:46:26 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:46:59 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:46:59 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:46:59 [info] ✔️ Power BI respondió en 639 ms
+2026-01-29 16:46:59 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:46:59 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:47:00 [info] ✔️ Power BI respondió en 207 ms
+2026-01-29 16:47:00 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:47:40 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:47:40 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:47:40 [info] ✔️ Power BI respondió en 655 ms
+2026-01-29 16:47:40 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:47:40 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:47:40 [info] ✔️ Power BI respondió en 208 ms
+2026-01-29 16:47:40 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:48:14 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:48:14 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:48:15 [info] ✔️ Power BI respondió en 634 ms
+2026-01-29 16:48:15 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:48:15 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:48:15 [info] ✔️ Power BI respondió en 197 ms
+2026-01-29 16:48:15 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:49:46 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:49:46 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:49:47 [info] ✔️ Power BI respondió en 656 ms
+2026-01-29 16:49:47 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:49:47 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:49:47 [info] ✔️ Power BI respondió en 196 ms
+2026-01-29 16:49:47 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:50:35 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:50:35 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:50:36 [info] ✔️ Power BI respondió en 657 ms
+2026-01-29 16:50:36 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:50:36 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:50:36 [info] ✔️ Power BI respondió en 195 ms
+2026-01-29 16:50:36 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 16:50:47 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 16:50:47 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 16:50:48 [info] ✔️ Power BI respondió en 665 ms
+2026-01-29 16:50:48 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 16:50:48 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 16:50:48 [info] ✔️ Power BI respondió en 193 ms
+2026-01-29 16:50:48 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 17:03:23 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:03:23 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:03:23 [info] ✔️ Power BI respondió en 674 ms
+2026-01-29 17:03:23 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:03:23 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 17:03:24 [info] ✔️ Power BI respondió en 838 ms
+2026-01-29 17:03:24 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 17:03:54 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:03:54 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:03:54 [info] ✔️ Power BI respondió en 657 ms
+2026-01-29 17:03:54 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:03:54 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 17:03:55 [info] ✔️ Power BI respondió en 307 ms
+2026-01-29 17:03:55 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 17:04:14 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:04:14 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:04:15 [info] ✔️ Power BI respondió en 641 ms
+2026-01-29 17:04:15 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:04:15 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 17:04:15 [info] ✔️ Power BI respondió en 303 ms
+2026-01-29 17:04:15 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 17:04:26 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:04:26 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:04:27 [info] ✔️ Power BI respondió en 645 ms
+2026-01-29 17:04:27 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:04:27 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 17:04:27 [info] ✔️ Power BI respondió en 301 ms
+2026-01-29 17:04:27 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 17:05:56 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:05:56 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:05:56 [info] ✔️ Power BI respondió en 650 ms
+2026-01-29 17:05:56 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:05:56 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 17:05:56 [info] ✔️ Power BI respondió en 305 ms
+2026-01-29 17:05:56 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 17:06:29 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:06:29 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:06:30 [info] ✔️ Power BI respondió en 694 ms
+2026-01-29 17:06:30 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:06:30 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 17:06:30 [info] ✔️ Power BI respondió en 312 ms
+2026-01-29 17:06:30 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 17:06:54 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:06:54 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:06:54 [info] ✔️ Power BI respondió en 673 ms
+2026-01-29 17:06:54 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:06:54 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 17:06:55 [info] ✔️ Power BI respondió en 308 ms
+2026-01-29 17:06:55 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 17:28:47 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:28:47 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:28:48 [info] ✔️ Power BI respondió en 1216 ms
+2026-01-29 17:28:48 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:28:48 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 17:28:48 [info] ✔️ Power BI respondió en 413 ms
+2026-01-29 17:28:48 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 17:28:59 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:28:59 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:29:00 [info] ✔️ Power BI respondió en 595 ms
+2026-01-29 17:29:00 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:29:00 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 17:29:00 [info] ✔️ Power BI respondió en 304 ms
+2026-01-29 17:29:00 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 17:30:38 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:30:38 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:30:39 [info] ✔️ Power BI respondió en 882 ms
+2026-01-29 17:30:39 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:30:39 [error] TypeError: Cannot read properties of undefined (reading 'G0')
+    at getFullTigoData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getFullTigoMessage.js:45:74)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:21:31)
+2026-01-29 17:30:39 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 17:30:40 [info] ✔️ Power BI respondió en 418 ms
+2026-01-29 17:30:40 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 17:30:44 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:30:44 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:30:45 [info] ✔️ Power BI respondió en 493 ms
+2026-01-29 17:30:45 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:30:45 [error] TypeError: Cannot read properties of undefined (reading 'G0')
+    at getFullTigoData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getFullTigoMessage.js:45:74)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:21:31)
+2026-01-29 17:30:45 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 17:30:45 [info] ✔️ Power BI respondió en 305 ms
+2026-01-29 17:30:45 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 17:31:48 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:31:48 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:31:49 [info] ✔️ Power BI respondió en 650 ms
+2026-01-29 17:31:49 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:31:49 [error] TypeError: Cannot read properties of undefined (reading 'G0')
+    at getFullTigoData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getFullTigoMessage.js:45:74)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async getUserInfo (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:21:31)
+2026-01-29 17:31:49 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 17:31:49 [info] ✔️ Power BI respondió en 312 ms
+2026-01-29 17:31:49 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 17:32:55 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:32:55 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:32:56 [info] ✔️ Power BI respondió en 659 ms
+2026-01-29 17:32:56 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:32:56 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 17:32:56 [info] ✔️ Power BI respondió en 307 ms
+2026-01-29 17:32:56 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 17:34:25 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:34:25 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:34:25 [info] ✔️ Power BI respondió en 676 ms
+2026-01-29 17:34:25 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:34:25 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 17:34:26 [info] ✔️ Power BI respondió en 303 ms
+2026-01-29 17:34:26 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-01-29 17:34:49 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:34:49 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:34:50 [info] ✔️ Power BI respondió en 597 ms
+2026-01-29 17:34:50 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:36:18 [info] 📥 Nueva solicitud a /userinfo
+2026-01-29 17:36:18 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-01-29 17:36:19 [info] ✔️ Power BI respondió en 654 ms
+2026-01-29 17:36:19 [info] ✔️ Data formateada correctamente en full tigo
+2026-01-29 17:36:19 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-01-29 17:36:19 [info] ✔️ Power BI respondió en 298 ms
+2026-01-29 17:36:19 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-02-02 10:18:29 [info] 📥 Nueva solicitud a /userinfo
+2026-02-02 10:18:29 [info] 📡 Iniciando consulta Full Tigo a Power BI
+2026-02-02 10:18:31 [info] ✔️ Power BI respondió en 1312 ms
+2026-02-02 10:18:31 [info] ✔️ Data formateada correctamente en full tigo
+2026-02-02 10:18:31 [info] 📡 Iniciando consulta Full Tigo Matriz a Power BI
+2026-02-02 10:18:31 [info] ✔️ Power BI respondió en 308 ms
+2026-02-02 10:18:31 [info] ✔️ Data formateada correctamente en full tigo Matriz
+2026-02-10 14:44:23 [info] 📥 Nueva solicitud a /userinfo
+2026-02-10 14:44:23 [info] 🔍 Ejecutando getOfferInfo()...
+2026-02-10 14:44:23 [info] 📡 Iniciando getOfferInfo() para ANI: 331233123
+2026-02-10 14:44:23 [info] 🔍 Consultando impacto: 1
+2026-02-10 14:44:52 [info] ✔️ Impacto 1 respondió en 28859 ms
+2026-02-10 14:44:52 [info] 🔍 Consultando impacto: 2
+2026-02-10 14:45:18 [info] ✔️ Impacto 2 respondió en 26278 ms
+2026-02-10 14:45:18 [info] 🔍 Consultando impacto: 3
+2026-02-10 14:45:44 [info] ✔️ Impacto 3 respondió en 25843 ms
+2026-02-10 14:45:44 [info] 🔍 Consultando impacto: 4
+2026-02-10 14:45:44 [info] ✔️ Impacto 4 respondió en 212 ms
+2026-02-10 14:45:44 [info] 🏁 Finalizando getOfferInfo(). Impacto encontrado: Ninguno
+2026-02-10 14:45:44 [warn] ⚠️ Offer Alert indica que no se encontró información
+2026-02-10 14:52:07 [info] 📥 Nueva solicitud a /userinfo
+2026-02-10 14:52:07 [error] 🔥 ERROR crítico en /userinfo
+2026-02-10 14:52:51 [info] 📥 Nueva solicitud a /userinfo
+2026-02-10 14:52:51 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-02-10 14:52:51 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-02-10 14:52:52 [info] ✔️ Power BI respondió en 925 ms
+2026-02-10 14:52:52 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-02-10 14:52:52 [info] ✔️ getFullEquipoData() OK en 929 ms
+2026-02-10 14:52:52 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451) |
+Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
+2026-02-10 14:52:52 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-10 14:52:52 [info] ✔️ Consultas paralelas completadas en 400 ms
+2026-02-10 14:52:52 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-02-10 14:52:52 [info] ✔️ getOfferMatrixData() OK en 405 ms
+2026-02-10 14:52:52 [info] 🎯 /userinfo completado en 1335 ms
+2026-02-10 14:52:52 [error] 🔥 ERROR crítico en /userinfo
+2026-02-10 14:53:08 [info] 📥 Nueva solicitud a /userinfo
+2026-02-10 14:53:08 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-02-10 14:53:08 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-02-10 14:53:08 [info] ✔️ Power BI respondió en 485 ms
+2026-02-10 14:53:08 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-02-10 14:53:08 [info] ✔️ getFullEquipoData() OK en 488 ms
+2026-02-10 14:53:08 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451) |
+Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
+2026-02-10 14:53:08 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-10 14:53:09 [info] ✔️ Consultas paralelas completadas en 406 ms
+2026-02-10 14:53:09 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-02-10 14:53:09 [info] ✔️ getOfferMatrixData() OK en 408 ms
+2026-02-10 14:53:09 [info] 🎯 /userinfo completado en 896 ms
+2026-02-10 14:53:09 [error] 🔥 ERROR crítico en /userinfo
+2026-02-10 14:53:27 [info] 📥 Nueva solicitud a /userinfo
+2026-02-10 14:53:27 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-02-10 14:53:27 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-02-10 14:53:28 [info] ✔️ Power BI respondió en 570 ms
+2026-02-10 14:53:28 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-02-10 14:53:28 [info] ✔️ getFullEquipoData() OK en 574 ms
+2026-02-10 14:53:28 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451) |
+Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
+2026-02-10 14:53:28 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-10 14:53:28 [info] ✔️ Consultas paralelas completadas en 417 ms
+2026-02-10 14:53:28 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-02-10 14:53:28 [info] ✔️ getOfferMatrixData() OK en 421 ms
+2026-02-10 14:53:28 [info] 🎯 /userinfo completado en 996 ms
+2026-02-10 14:56:08 [info] 📥 Nueva solicitud a /userinfo
+2026-02-10 14:56:08 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-02-10 14:56:08 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-02-10 14:56:08 [info] ✔️ Power BI respondió en 594 ms
+2026-02-10 14:56:08 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-02-10 14:56:08 [info] ✔️ getFullEquipoData() OK en 596 ms
+2026-02-10 14:56:08 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451) |
+Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
+2026-02-10 14:56:08 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-10 14:56:09 [info] ✔️ Consultas paralelas completadas en 394 ms
+2026-02-10 14:56:09 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-02-10 14:56:09 [info] ✔️ getOfferMatrixData() OK en 397 ms
+2026-02-10 14:56:09 [info] 🎯 /userinfo completado en 995 ms
+2026-02-10 14:56:30 [info] 📥 Nueva solicitud a /userinfo
+2026-02-10 14:56:30 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-02-10 14:56:30 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-02-10 14:56:30 [info] ✔️ Power BI respondió en 574 ms
+2026-02-10 14:56:30 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-02-10 14:56:30 [info] ✔️ getFullEquipoData() OK en 576 ms
+2026-02-10 14:56:30 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451) |
+Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
+2026-02-10 14:56:30 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-10 14:56:31 [info] ✔️ Consultas paralelas completadas en 417 ms
+2026-02-10 14:56:31 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-02-10 14:56:31 [info] ✔️ getOfferMatrixData() OK en 441 ms
+2026-02-10 14:56:31 [info] 🎯 /userinfo completado en 1019 ms
+2026-02-10 14:57:07 [info] 📥 Nueva solicitud a /userinfo
+2026-02-10 14:57:07 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-02-10 14:57:07 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-02-10 14:57:08 [info] ✔️ Power BI respondió en 548 ms
+2026-02-10 14:57:08 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-02-10 14:57:08 [info] ✔️ getFullEquipoData() OK en 552 ms
+2026-02-10 14:57:08 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451) |
+Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
+2026-02-10 14:57:08 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-10 14:57:08 [info] ✔️ Consultas paralelas completadas en 396 ms
+2026-02-10 14:57:08 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-02-10 14:57:08 [info] ✔️ getOfferMatrixData() OK en 399 ms
+2026-02-10 14:57:08 [info] 🎯 /userinfo completado en 953 ms
+2026-02-10 14:57:35 [info] 📥 Nueva solicitud a /userinfo
+2026-02-10 14:57:35 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-02-10 14:57:35 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-02-10 14:57:35 [info] ✔️ Power BI respondió en 547 ms
+2026-02-10 14:57:35 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-02-10 14:57:35 [info] ✔️ getFullEquipoData() OK en 552 ms
+2026-02-10 14:57:35 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451) |
+Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
+2026-02-10 14:57:35 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-10 14:57:36 [info] ✔️ Consultas paralelas completadas en 401 ms
+2026-02-10 14:57:36 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-02-10 14:57:36 [info] ✔️ getOfferMatrixData() OK en 407 ms
+2026-02-10 14:57:36 [info] 🎯 /userinfo completado en 960 ms
+2026-02-10 14:59:27 [info] 📥 Nueva solicitud a /userinfo
+2026-02-10 14:59:27 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-02-10 14:59:27 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-02-10 14:59:27 [info] ✔️ Power BI respondió en 599 ms
+2026-02-10 14:59:27 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-02-10 14:59:27 [info] ✔️ getFullEquipoData() OK en 602 ms
+2026-02-10 14:59:27 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451) |
+Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
+2026-02-10 14:59:27 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-10 14:59:30 [info] ✔️ Consultas paralelas completadas en 2746 ms
+2026-02-10 14:59:30 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-02-10 14:59:30 [info] ✔️ getOfferMatrixData() OK en 2750 ms
+2026-02-10 14:59:30 [info] 🎯 /userinfo completado en 3354 ms
+2026-02-10 14:59:52 [info] 📥 Nueva solicitud a /userinfo
+2026-02-10 14:59:52 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-02-10 14:59:52 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-02-10 14:59:52 [info] ✔️ Power BI respondió en 576 ms
+2026-02-10 14:59:52 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-02-10 14:59:52 [info] ✔️ getFullEquipoData() OK en 578 ms
+2026-02-10 14:59:52 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451) |
+Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
+2026-02-10 14:59:52 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-10 14:59:53 [info] ✔️ Consultas paralelas completadas en 388 ms
+2026-02-10 14:59:53 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-02-10 14:59:53 [info] ✔️ getOfferMatrixData() OK en 392 ms
+2026-02-10 14:59:53 [info] 🎯 /userinfo completado en 972 ms
+2026-02-10 15:00:20 [info] 📥 Nueva solicitud a /userinfo
+2026-02-10 15:00:20 [info] ⚙️ Cargando datos adicionales porque contiene 'Matriz'
+2026-02-10 15:00:20 [info] 📡 Iniciando consulta getFullEquipoData() a Power BI
+2026-02-10 15:00:20 [info] ✔️ Power BI respondió en 571 ms
+2026-02-10 15:00:20 [info] ✔️ Data formateada correctamente en getFullEquipoData
+2026-02-10 15:00:20 [info] ✔️ getFullEquipoData() OK en 575 ms
+2026-02-10 15:00:20 [info] 📡 Iniciando getOfferMatrixData() plan="Pospago Fidelizacion 5.0 Plus+ (745|7451) |
+Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
+2026-02-10 15:00:20 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-10 15:00:21 [info] ✔️ Consultas paralelas completadas en 402 ms
+2026-02-10 15:00:21 [info] 🏁 Finalizando getOfferMatrixData() correctamente
+2026-02-10 15:00:21 [info] ✔️ getOfferMatrixData() OK en 409 ms
+2026-02-10 15:00:21 [info] 🎯 /userinfo completado en 986 ms

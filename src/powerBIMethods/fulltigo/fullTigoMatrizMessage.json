@@ -1,0 +1,91 @@
+{
+  "version": "1.0.0",
+  "queries": [
+    {
+      "Query": {
+        "Commands": [
+          {
+            "SemanticQueryDataShapeCommand": {
+              "Query": {
+                "Version": 2,
+                "From": [
+                  {
+                    "Name": "a",
+                    "Entity": "Alerta FT",
+                    "Type": 0
+                  }
+                ],
+                "Select": [
+                  {
+                    "Measure": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Source": "a"
+                        }
+                      },
+                      "Property": "MedidaBotonFT"
+                    },
+                    "Name": "Alerta FT.MedidaBotonFT",
+                    "NativeReferenceName": "MedidaBotonFT"
+                  }
+                ],
+                "Where": [
+                  {
+                    "Condition": {
+                      "Contains": {
+                        "Left": {
+                          "Column": {
+                            "Expression": {
+                              "SourceRef": {
+                                "Source": "a"
+                              }
+                            },
+                            "Property": "Llave"
+                          }
+                        },
+                        "Right": {
+                          "Literal": {
+                            "Value": "'123234'"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              "Binding": {
+                "Primary": {
+                  "Groupings": [
+                    {
+                      "Projections": [0]
+                    }
+                  ]
+                },
+                "DataReduction": {
+                  "DataVolume": 3,
+                  "Primary": {
+                    "Top": {}
+                  }
+                },
+                "Version": 1
+              },
+              "ExecutionMetricsKind": 1
+            }
+          }
+        ]
+      },
+      "QueryId": "",
+      "ApplicationContext": {
+        "DatasetId": "cd5adb66-02e9-40c2-be93-eca0ba8455ec",
+        "Sources": [
+          {
+            "ReportId": "436e395d-4b55-426f-b6b4-ebe8e20dab1a",
+            "VisualId": "c6fe75be73c951811c23"
+          }
+        ]
+      }
+    }
+  ],
+  "cancelQueries": [],
+  "modelId": 1840631
+}
