@@ -7,7 +7,7 @@ const indexController = new IndexController();
 
 function setRoutes(app) {
   router.post("/userinfo", tokenAuth, indexController.getUserInfo);
-  router.get("/matrix", indexController.getMatrix);
+  router.post("/matrix", indexController.getMatrix);
   // router.get("/fullequipo", indexController.getFullEquipoData);
   // router.get("/Matrix", indexController.getOfferMatrixData);
 

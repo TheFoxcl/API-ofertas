@@ -6,6 +6,7 @@ const getOfferMatrixData = require("../services/getOfferMatrixData");
 const planNameID = require("../utilities/planNameID");
 const getFullTigoData = require("../services/getFullTigoMessage");
 const getFullTigoDatMatrizData = require("../services/getFullTigoMatriz");
+const getExcelData = require("../services/getExcelData");
 const cache = require("../cache/tablesCache");
 
 class IndexController {
@@ -160,9 +161,16 @@ class IndexController {
     }
   }
   async getMatrix(req, res) {
+    logger.info("📥 Nueva solicitud a /userinfo", {
+      body: req.body,
+      ip: req.ip,
+    });
+
+    const { plan } = req.body;
     try {
       const tables = cache.getTables();
-      return res.json({ matrix: tables?.matriz || null });
+      const result = await getExcelData(plan);
+      return res.json({ result });
     } catch (err) {
       logger.error("🔥 ERROR al obtener tablas de cache", {
         error: err.message,

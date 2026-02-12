@@ -2545,3 +2545,361 @@ Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
 2026-02-10 15:00:21 [info] 🏁 Finalizando getOfferMatrixData() correctamente
 2026-02-10 15:00:21 [info] ✔️ getOfferMatrixData() OK en 409 ms
 2026-02-10 15:00:21 [info] 🎯 /userinfo completado en 986 ms
+2026-02-12 11:58:12 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 11:58:57 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 11:58:57 [info] 📡 Iniciando getExcelData() plan="[object Object]"
+2026-02-12 11:58:57 [error] TypeError: columna3.endsWith is not a function
+    at resolverPlan (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\utilities\planNameID.js:4:25)
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:15:22)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:173:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+2026-02-12 11:59:27 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 11:59:27 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 11:59:27 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 11:59:27 [info] ✔️ Consultas paralelas completadas en 0 ms
+2026-02-12 11:59:27 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 12:00:12 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 12:00:12 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 12:00:12 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 12:00:12 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 12:00:12 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 12:04:21 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 12:04:21 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 12:04:21 [error] TypeError: tables.reventa.find is not a function
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:16:40)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:172:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-12 12:05:08 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 12:05:08 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 12:05:08 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 12:05:08 [info] ✔️ Consultas paralelas completadas en 5 ms
+2026-02-12 12:05:08 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 12:07:37 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 12:07:37 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 12:07:37 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 12:07:37 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 12:07:37 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 12:08:04 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 12:08:04 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 12:08:04 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 12:08:04 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 12:08:04 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 12:08:59 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 12:08:59 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 12:08:59 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 12:08:59 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 12:08:59 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 12:16:35 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 12:16:35 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 12:16:35 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 12:16:35 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 12:16:35 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 12:18:33 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 12:18:33 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 12:18:33 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 12:18:33 [info] ✔️ Consultas paralelas completadas en 2 ms
+2026-02-12 12:18:33 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 12:18:35 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 12:18:35 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 12:18:35 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 12:18:35 [info] ✔️ Consultas paralelas completadas en 2 ms
+2026-02-12 12:18:35 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 12:19:11 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 12:19:11 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 12:19:11 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 12:19:11 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 12:19:11 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 12:19:13 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 12:19:13 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 12:19:13 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 12:19:13 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 12:19:13 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 12:19:57 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 12:19:57 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 12:19:57 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 12:19:57 [info] ✔️ Consultas paralelas completadas en 0 ms
+2026-02-12 12:19:57 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 12:22:27 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 12:22:27 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 12:22:27 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 12:22:27 [info] ✔️ Consultas paralelas completadas en 0 ms
+2026-02-12 12:22:27 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 12:22:29 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 12:22:29 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 12:22:29 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 12:22:29 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 12:22:29 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 14:20:50 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:20:50 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:20:50 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 14:20:50 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 14:20:50 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 14:21:21 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:21:21 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:21:21 [error] TypeError: Cannot read properties of undefined (reading 'BA+Movil')
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:22:39)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:172:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-12 14:23:00 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:23:00 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:23:00 [error] TypeError: Cannot read properties of undefined (reading 'BA+Movil')
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:22:39)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:172:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-12 14:24:45 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:24:45 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:24:45 [error] TypeError: Cannot read properties of undefined (reading 'BA+Movil')
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:22:39)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:172:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-12 14:25:20 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:25:20 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:25:20 [error] TypeError: Cannot read properties of undefined (reading 'BA+Movil')
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:22:39)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:172:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-12 14:28:11 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:28:11 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:28:11 [error] TypeError: Cannot read properties of undefined (reading 'BA+Movil')
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:22:39)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:172:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-12 14:28:57 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:28:57 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:28:57 [error] TypeError: Cannot read properties of undefined (reading 'BA+Movil')
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:22:39)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:172:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-12 14:29:08 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:29:08 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:29:08 [error] TypeError: Cannot read properties of undefined (reading 'BA+Movil')
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:22:39)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:172:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-12 14:29:31 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:29:31 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:29:31 [error] TypeError: Cannot read properties of undefined (reading 'BA+Movil')
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:22:39)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:172:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-12 14:30:41 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:30:41 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:30:41 [error] TypeError: Cannot read properties of undefined (reading 'BA+Movil')
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:22:39)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:172:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-12 14:31:49 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:31:49 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:31:49 [error] TypeError: Cannot read properties of undefined (reading 'BA+Movil')
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:22:39)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:172:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-12 14:32:08 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:32:08 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:32:08 [error] TypeError: Cannot read properties of undefined (reading 'BA+Movil')
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:22:39)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:172:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-12 14:32:20 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:32:20 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:32:20 [error] TypeError: Cannot read properties of undefined (reading 'BA+Movil')
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:22:39)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:172:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-12 14:33:29 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:33:29 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:33:29 [error] ReferenceError: fullEquipo is not defined
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:21:19)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:172:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-12 14:49:57 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:49:57 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:49:57 [error] ReferenceError: ofertaFull is not defined
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:21:19)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:172:7)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-12 14:50:15 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:50:15 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:50:15 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 14:50:15 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 14:50:15 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 14:51:21 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:51:21 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:51:21 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 14:51:21 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 14:51:21 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 14:51:28 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:51:28 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:51:28 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 14:51:28 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 14:51:28 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 14:51:31 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:51:31 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:51:31 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 14:51:31 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 14:51:31 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 14:51:42 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:51:42 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:51:42 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 14:51:42 [info] ✔️ Consultas paralelas completadas en 2 ms
+2026-02-12 14:51:42 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 14:53:53 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:53:53 [info] 📡 Iniciando getExcelData() plan="Pospago Fidelizacion 5.0 Plus+"
+2026-02-12 14:53:53 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 14:53:53 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 14:53:53 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 14:54:16 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:54:16 [info] 📡 Iniciando getExcelData() plan="Pospago 5.19"
+2026-02-12 14:54:16 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 14:54:16 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 14:54:16 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 14:55:03 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 14:55:03 [info] 📡 Iniciando getExcelData() plan="Pospago 5.19"
+2026-02-12 14:55:03 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 14:55:03 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 14:55:03 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 15:01:44 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 15:01:44 [info] 📡 Iniciando getExcelData() plan="Pospago 5.19"
+2026-02-12 15:01:44 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 15:01:44 [info] ✔️ Consultas paralelas completadas en 3 ms
+2026-02-12 15:01:44 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 15:02:21 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 15:02:21 [info] 📡 Iniciando getExcelData() plan="Pospago 5.19"
+2026-02-12 15:02:21 [info] ⏳ Consultando matriz y planDetails en paralelo...
+2026-02-12 15:02:21 [info] ✔️ Consultas paralelas completadas en 3 ms
+2026-02-12 15:02:21 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 15:06:05 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 15:06:05 [info] 📡 Iniciando getExcelData() plan="Pospago 5.19"
+2026-02-12 15:06:05 [info] ✔️ Consultas paralelas completadas en 3 ms
+2026-02-12 15:06:05 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 15:06:16 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 15:06:16 [info] 📡 Iniciando getExcelData() plan="Pospago 5.19"
+2026-02-12 15:06:16 [info] ✔️ Consultas paralelas completadas en 3 ms
+2026-02-12 15:06:16 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 15:08:46 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 15:08:46 [info] 📡 Iniciando getExcelData() plan="Pospago 5.19"
+2026-02-12 15:08:47 [info] ✔️ Consultas paralelas completadas en 2 ms
+2026-02-12 15:08:47 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 15:09:35 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 15:09:35 [info] 📡 Iniciando getExcelData() plan="Pospago 5.19"
+2026-02-12 15:09:35 [info] ✔️ Consultas paralelas completadas en 2 ms
+2026-02-12 15:09:35 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 15:10:25 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 15:10:25 [info] 📡 Iniciando getExcelData() plan="Pospago 5.2 Seg"
+2026-02-12 15:10:25 [info] ✔️ Consultas paralelas completadas en 1 ms
+2026-02-12 15:10:25 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-12 15:12:56 [info] 📥 Nueva solicitud a /userinfo
+2026-02-12 15:12:56 [info] 📡 Iniciando getExcelData() plan="Pospago 5.2 Seg"
+2026-02-12 15:12:56 [info] ✔️ Consultas paralelas completadas en 2 ms
+2026-02-12 15:12:56 [info] 🏁 Finalizando getExcelData() correctamente
