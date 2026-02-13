@@ -171,7 +171,7 @@ class IndexController {
     try {
       const tables = cache.getTables();
       const result = await getExcelData(plan);
-      return res.json(result);
+      return res.json(result.data);
     } catch (err) {
       logger.error("🔥 ERROR al obtener tablas de cache", {
         error: err.message,

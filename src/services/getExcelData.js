@@ -21,7 +21,7 @@ async function getExcelData(plan) {
       ];
 
     let data = {
-      fullEquipo: tables.ofertaFull,
+      fullEquipo: { data: tables.ofertaFull },
       matrix: {
         matrixData: [
           {
@@ -37,7 +37,7 @@ async function getExcelData(plan) {
                 : null,
             retencion: {
               plan: planData?.planPowerBI
-                .replace(/\r?\n/g, " ")
+                .replace(/\r?\n/g, "")
                 .replace(/\|\d{4}/g, ""),
               cb: ofertaPlan.tarifaPlena,
             },
