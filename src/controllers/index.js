@@ -7,6 +7,7 @@ const planNameID = require("../utilities/planNameID");
 const getFullTigoData = require("../services/getFullTigoMessage");
 const getFullTigoDatMatrizData = require("../services/getFullTigoMatriz");
 const getExcelData = require("../services/getExcelData");
+const processExcel = require("../utilities/getExcelFile");
 const cache = require("../cache/tablesCache");
 
 class IndexController {
@@ -170,7 +171,7 @@ class IndexController {
     try {
       const tables = cache.getTables();
       const result = await getExcelData(plan);
-      return res.json({ result });
+      return res.json(result);
     } catch (err) {
       logger.error("🔥 ERROR al obtener tablas de cache", {
         error: err.message,
@@ -183,7 +184,25 @@ class IndexController {
       });
     }
   }
-  async getMatrixPowerBI(req, res) {}
+  async updateMatrix(req, res) {
+    logger.info("📥 Nueva solicitud a /update-matrix");
+    try {
+      processExcel();
+      return res.json({
+        message: "Matriz actualizada correctamente",
+      });
+    } catch (err) {
+      logger.error("🔥 ERROR al actualizar la matriz", {
+        error: err.message,
+      });
+      return res.status(500).json({
+        error: "Internal error",
+        detail: err.message,
+        status: 500,
+        info: "Error al actualizar la matriz.",
+      });
+    }
+  }
 }
 
 module.exports = IndexController;

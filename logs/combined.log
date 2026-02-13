@@ -2903,3 +2903,32 @@ Pospago Fidelizacion 5.0 Plus+_V2 (763|7631)"
 2026-02-12 15:12:56 [info] 📡 Iniciando getExcelData() plan="Pospago 5.2 Seg"
 2026-02-12 15:12:56 [info] ✔️ Consultas paralelas completadas en 2 ms
 2026-02-12 15:12:56 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-13 08:37:47 [info] 📥 Nueva solicitud a /userinfo
+2026-02-13 08:37:47 [info] 📡 Iniciando getExcelData() plan="Pospago 5.2 Seg"
+2026-02-13 08:37:47 [info] ✔️ Consultas paralelas completadas en 3 ms
+2026-02-13 08:37:47 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-13 08:38:05 [info] 📥 Nueva solicitud a /userinfo
+2026-02-13 08:38:05 [info] 📡 Iniciando getExcelData() plan="Pospago 5.2 Seg"
+2026-02-13 08:38:05 [info] ✔️ Consultas paralelas completadas en 5 ms
+2026-02-13 08:38:05 [info] 🏁 Finalizando getExcelData() correctamente
+2026-02-13 08:48:25 [info] 📥 Nueva solicitud a /update-matrix
+2026-02-13 08:49:47 [info] 📥 Nueva solicitud a /update-matrix
+2026-02-13 08:50:13 [info] 📥 Nueva solicitud a /userinfo
+2026-02-13 08:50:13 [info] 📡 Iniciando getExcelData() plan="Pospago 5.2 Seg"
+2026-02-13 08:50:13 [error] TypeError: Cannot read properties of null (reading 'reventa')
+    at getExcelData (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\services\getExcelData.js:17:14)
+    at getMatrix (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\src\controllers\index.js:173:28)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (C:\Users\jcbotero\Documents\Emtelco-uniphore coflow\my-express-api\node_modules\express\lib\router\index.js:175:3)
+2026-02-13 08:50:52 [info] 📥 Nueva solicitud a /update-matrix
+2026-02-13 08:52:11 [info] 📥 Nueva solicitud a /update-matrix
+2026-02-13 08:52:20 [info] 📥 Nueva solicitud a /userinfo
+2026-02-13 08:52:20 [info] 📡 Iniciando getExcelData() plan="Pospago 5.2 Seg"
+2026-02-13 08:52:20 [info] ✔️ Consultas paralelas completadas en 5 ms
+2026-02-13 08:52:20 [info] 🏁 Finalizando getExcelData() correctamente
